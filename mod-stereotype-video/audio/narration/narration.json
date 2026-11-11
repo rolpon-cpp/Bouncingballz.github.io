@@ -1,0 +1,365 @@
+{
+  "voice": "en_US-ljspeech-high",
+  "length_scale": 1.28,
+  "sample_rate": 48000,
+  "clips": {
+    "n01": {
+      "scene": 1,
+      "file": "n01.wav",
+      "text": "You know this guy. Everyone does. The Discord mod: tiny crown, huge power, zero chill. Today we find out where he came from, and whether he's even real.",
+      "duration": 13.5964,
+      "sentences": [
+        {
+          "text": "You know this guy.",
+          "start": 0.0,
+          "end": 1.3349
+        },
+        {
+          "text": "Everyone does.",
+          "start": 1.8849,
+          "end": 3.1504
+        },
+        {
+          "text": "The Discord mod: tiny crown, huge power, zero chill.",
+          "start": 3.7004,
+          "end": 8.4373
+        },
+        {
+          "text": "Today we find out where he came from, and whether he's even real.",
+          "start": 8.9872,
+          "end": 13.5964
+        }
+      ]
+    },
+    "n02": {
+      "scene": 2,
+      "file": "n02.wav",
+      "text": "First, a fact that gets lost in the jokes. Most Discord moderators are volunteers. No salary, no benefits, and usually no training. A server owner picks someone active, hands them a role, and says \"keep it clean.\"",
+      "duration": 20.1698,
+      "sentences": [
+        {
+          "text": "First, a fact that gets lost in the jokes.",
+          "start": 0.0,
+          "end": 3.8661
+        },
+        {
+          "text": "Most Discord moderators are volunteers.",
+          "start": 4.4161,
+          "end": 7.8875
+        },
+        {
+          "text": "No salary, no benefits, and usually no training.",
+          "start": 8.4375,
+          "end": 13.0798
+        },
+        {
+          "text": "A server owner picks someone active, hands them a role, and says \"keep it clean.\"",
+          "start": 13.6297,
+          "end": 20.1698
+        }
+      ]
+    },
+    "n03": {
+      "scene": 2,
+      "file": "n03.wav",
+      "text": "Spam, scams, fights, trolls, and the occasional person who is just having a rough day. All of it handled between school, work and sleep.",
+      "duration": 11.0765,
+      "sentences": [
+        {
+          "text": "Spam, scams, fights, trolls, and the occasional person who is just having a rough day.",
+          "start": 0.0,
+          "end": 6.7416
+        },
+        {
+          "text": "All of it handled between school, work and sleep.",
+          "start": 7.2916,
+          "end": 11.0765
+        }
+      ]
+    },
+    "n04": {
+      "scene": 2,
+      "file": "n04.wav",
+      "text": "So why does the internet picture a power-hungry tyrant instead? It comes down to four reasons.",
+      "duration": 8.2003,
+      "sentences": [
+        {
+          "text": "So why does the internet picture a power-hungry tyrant instead?",
+          "start": 0.0,
+          "end": 5.0264
+        },
+        {
+          "text": "It comes down to four reasons.",
+          "start": 5.5764,
+          "end": 8.2003
+        }
+      ]
+    },
+    "n05": {
+      "scene": 3,
+      "file": "n05.wav",
+      "text": "A mod role comes with real buttons: mute, kick, ban. Online, there is almost no check on how they get used. No manager, no handbook, no appeals form. Give anyone that button and some will press it too fast.",
+      "duration": 18.6743,
+      "sentences": [
+        {
+          "text": "A mod role comes with real buttons: mute, kick, ban.",
+          "start": 0.0,
+          "end": 4.5627
+        },
+        {
+          "text": "Online, there is almost no check on how they get used.",
+          "start": 5.1127,
+          "end": 9.4705
+        },
+        {
+          "text": "No manager, no handbook, no appeals form.",
+          "start": 10.0205,
+          "end": 13.9099
+        },
+        {
+          "text": "Give anyone that button and some will press it too fast.",
+          "start": 14.4599,
+          "end": 18.6743
+        }
+      ]
+    },
+    "n06": {
+      "scene": 3,
+      "file": "n06.wav",
+      "text": "When a mod quietly stops a scam, nobody notices. When a mod bans someone, a whole channel watches. Good moderation looks like nothing happening. Bad moderation makes a screenshot.",
+      "duration": 16.4853,
+      "sentences": [
+        {
+          "text": "When a mod quietly stops a scam, nobody notices.",
+          "start": 0.0,
+          "end": 4.6208
+        },
+        {
+          "text": "When a mod bans someone, a whole channel watches.",
+          "start": 5.1708,
+          "end": 9.3156
+        },
+        {
+          "text": "Good moderation looks like nothing happening.",
+          "start": 9.8656,
+          "end": 13.1721
+        },
+        {
+          "text": "Bad moderation makes a screenshot.",
+          "start": 13.7221,
+          "end": 16.4853
+        }
+      ]
+    },
+    "n07": {
+      "scene": 3,
+      "file": "n07.wav",
+      "text": "In many servers the new mod is whoever is online the most, or whoever the owner already knows. Plenty of them are great. Others are learning how to handle authority in real time, in public, with an audience.",
+      "duration": 17.7371,
+      "sentences": [
+        {
+          "text": "In many servers the new mod is whoever is online the most, or whoever the owner already knows.",
+          "start": 0.0,
+          "end": 8.0689
+        },
+        {
+          "text": "Plenty of them are great.",
+          "start": 8.6189,
+          "end": 10.4533
+        },
+        {
+          "text": "Others are learning how to handle authority in real time, in public, with an audience.",
+          "start": 11.0033,
+          "end": 17.7371
+        }
+      ]
+    },
+    "n08": {
+      "scene": 3,
+      "file": "n08.wav",
+      "text": "The internet's favorite hobby is turning a few bad stories into a character. A handful of screenshots become a joke, the joke becomes a meme, and the meme becomes a type. After that, every strict mod is proof, and every kind one is an exception.",
+      "duration": 20.4101,
+      "sentences": [
+        {
+          "text": "The internet's favorite hobby is turning a few bad stories into a character.",
+          "start": 0.0,
+          "end": 5.6312
+        },
+        {
+          "text": "A handful of screenshots become a joke, the joke becomes a meme, and the meme becomes a type.",
+          "start": 6.1812,
+          "end": 13.2865
+        },
+        {
+          "text": "After that, every strict mod is proof, and every kind one is an exception.",
+          "start": 13.8365,
+          "end": 20.4101
+        }
+      ]
+    },
+    "n09": {
+      "scene": 4,
+      "file": "n09.wav",
+      "text": "Here is the uncomfortable part. The stereotype is not just a joke. It feeds itself.",
+      "duration": 8.2433,
+      "sentences": [
+        {
+          "text": "Here is the uncomfortable part.",
+          "start": 0.0,
+          "end": 2.7051
+        },
+        {
+          "text": "The stereotype is not just a joke.",
+          "start": 3.2551,
+          "end": 6.2537
+        },
+        {
+          "text": "It feeds itself.",
+          "start": 6.8037,
+          "end": 8.2433
+        }
+      ]
+    },
+    "n10": {
+      "scene": 4,
+      "file": "n10.wav",
+      "text": "When the only reward is respect, the role becomes part of a person's identity. A challenge to the rules starts to feel like a challenge to them.",
+      "duration": 10.8742,
+      "sentences": [
+        {
+          "text": "When the only reward is respect, the role becomes part of a person's identity.",
+          "start": 0.0,
+          "end": 5.6686
+        },
+        {
+          "text": "A challenge to the rules starts to feel like a challenge to them.",
+          "start": 6.2186,
+          "end": 10.8742
+        }
+      ]
+    },
+    "n11": {
+      "scene": 4,
+      "file": "n11.wav",
+      "text": "After the hundredth troll, everyone starts to look like the next one. Jess was not a troll. Tyler just stopped being able to tell.",
+      "duration": 10.946,
+      "sentences": [
+        {
+          "text": "After the hundredth troll, everyone starts to look like the next one.",
+          "start": 0.0,
+          "end": 5.2485
+        },
+        {
+          "text": "Jess was not a troll.",
+          "start": 5.7985,
+          "end": 7.3774
+        },
+        {
+          "text": "Tyler just stopped being able to tell.",
+          "start": 7.9274,
+          "end": 10.946
+        }
+      ]
+    },
+    "n12": {
+      "scene": 4,
+      "file": "n12.wav",
+      "text": "If a ban feels unfair and there is no way to challenge it, the banned person has one outlet left: complain loudly somewhere else. That is where most of the stories you have seen came from.",
+      "duration": 14.5032,
+      "sentences": [
+        {
+          "text": "If a ban feels unfair and there is no way to challenge it, the banned person has one outlet left: complain loudly somewhere else.",
+          "start": 0.0,
+          "end": 9.9846
+        },
+        {
+          "text": "That is where most of the stories you have seen came from.",
+          "start": 10.5346,
+          "end": 14.5032
+        }
+      ]
+    },
+    "n13": {
+      "scene": 4,
+      "file": "n13.wav",
+      "text": "Burnout drives out the patient mods first. The ones who enjoy control stay the longest. So the stereotype slowly becomes truer, even though it started as unfair.",
+      "duration": 13.9755,
+      "sentences": [
+        {
+          "text": "Burnout drives out the patient mods first.",
+          "start": 0.0,
+          "end": 3.3669
+        },
+        {
+          "text": "The ones who enjoy control stay the longest.",
+          "start": 3.9169,
+          "end": 7.0864
+        },
+        {
+          "text": "So the stereotype slowly becomes truer, even though it started as unfair.",
+          "start": 7.6364,
+          "end": 13.9755
+        }
+      ]
+    },
+    "n14": {
+      "scene": 5,
+      "file": "n14.wav",
+      "text": "Meet Priya. She is the reason your server had a calm morning. No thank-you, no screenshot, no applause. Just a clean channel when you woke up.",
+      "duration": 11.8577,
+      "sentences": [
+        {
+          "text": "Meet Priya.",
+          "start": 0.0,
+          "end": 1.0217
+        },
+        {
+          "text": "She is the reason your server had a calm morning.",
+          "start": 1.5717,
+          "end": 4.4974
+        },
+        {
+          "text": "No thank-you, no screenshot, no applause.",
+          "start": 5.0474,
+          "end": 8.9484
+        },
+        {
+          "text": "Just a clean channel when you woke up.",
+          "start": 9.4984,
+          "end": 11.8577
+        }
+      ]
+    },
+    "n15": {
+      "scene": 5,
+      "file": "n15.wav",
+      "text": "The best moderation is invisible, which is exactly why the bad moderation is what everyone remembers.",
+      "duration": 7.7439,
+      "sentences": [
+        {
+          "text": "The best moderation is invisible, which is exactly why the bad moderation is what everyone remembers.",
+          "start": 0.0,
+          "end": 7.7439
+        }
+      ]
+    },
+    "n16": {
+      "scene": 6,
+      "file": "n16.wav",
+      "text": "The mod stereotype is real, and so are the people behind it. Next time you are about to roast one, remember the 3 a.m. raid you never saw.",
+      "duration": 11.5029,
+      "sentences": [
+        {
+          "text": "The mod stereotype is real, and so are the people behind it.",
+          "start": 0.0,
+          "end": 4.7764
+        },
+        {
+          "text": "Next time you are about to roast one, remember the 3 a.m. raid you never saw.",
+          "start": 5.3264,
+          "end": 11.5029
+        }
+      ]
+    }
+  }
+}
