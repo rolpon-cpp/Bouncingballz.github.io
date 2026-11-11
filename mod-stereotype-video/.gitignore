@@ -1,0 +1,15 @@
+# regenerable intermediates (rebuilt by run_all.sh)
+*.pyc
+.venv/
+__pycache__/
+audio/full_mix*.wav
+audio/music_*.wav
+audio/scenes/
+audio/voices/
+media/
+output/*.log
+output/concat_list.txt
+output/media/
+output/project_source.zip
+output/scenes/
+output/video_nocaps.mp4
