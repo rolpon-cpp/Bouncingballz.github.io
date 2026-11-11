@@ -7,8 +7,10 @@ Rules checked
   3. the description contains the required sentence about the script and fictional characters
   4. the final video frame shows the credit line (checked on output/final_last_frame.png by pixel count)
   5. the credit text in the config is exactly the requested wording
+  6. every title option, the description and the pinned comment carry an AI disclosure, within YouTube's length limits
 Usage: python tools/lint_text.py
 """
+import re
 import sys
 from pathlib import Path
 
@@ -44,10 +46,31 @@ def main() -> int:
             fails.append(f"missing signature line in {p.relative_to(ROOT)}")
     desc = ROOT / "output" / "description.txt"
     if desc.exists():
-        if C.DESCRIPTION_LINE not in desc.read_text(encoding="utf-8"):
+        text = desc.read_text(encoding="utf-8")
+        if C.DESCRIPTION_LINE not in text:
             fails.append("description.txt lacks the required sentence")
+        if "AI DISCLOSURE" not in text:
+            fails.append("description.txt lacks the AI disclosure block")
+        if len(text) > 5000:
+            fails.append(f"description.txt is {len(text)} characters (YouTube limit 5000)")
     else:
         fails.append("output/description.txt not found")
+    titles = ROOT / "output" / "title.txt"
+    if titles.exists():
+        for line in titles.read_text(encoding="utf-8").splitlines():
+            title = line.split(". ", 1)[-1]                 # drop the "1. " list number
+            if len(title) > 100:
+                fails.append(f"title is {len(title)} characters (YouTube limit 100): {title}")
+            if not re.search(r"\bAI\b", title):
+                fails.append(f"title lacks an AI disclaimer: {title}")
+    else:
+        fails.append("output/title.txt not found")
+    comment = ROOT / "output" / "pinned_comment.txt"
+    if comment.exists():
+        if not re.search(r"\bAI\b", comment.read_text(encoding="utf-8")):
+            fails.append("pinned_comment.txt lacks an AI disclosure")
+    else:
+        fails.append("output/pinned_comment.txt not found")
     if C.CREDIT_LINE != "Script and video made with " + C.MODEL_NAME:
         fails.append("CREDIT_LINE wording")
     last = ROOT / "output" / "final_last_frame.png"

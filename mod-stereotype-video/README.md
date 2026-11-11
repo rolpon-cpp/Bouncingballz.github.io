@@ -34,7 +34,7 @@ Tested with Python 3.13, Manim Community 0.22.1, Piper 1.8.0, Pillow 13, ffmpeg 
 | 5. Final render (1080p, 30 fps) | `.venv/bin/python tools/render_scenes.py --quality final --jobs 4` | `output/scenes/sceneN_final.mp4` |
 | 6. Assemble with captions | `.venv/bin/python tools/assemble.py` | `output/final.mp4`, `captions.srt`, `captions.ass` |
 | 7. Thumbnail | `.venv/bin/python tools/make_thumbnail.py` | `output/thumbnail.png` (1280x720) |
-| 8. Title, description, tags | `.venv/bin/python tools/make_metadata.py` | `output/title.txt`, `description.txt`, `tags.txt` |
+| 8. Title, description, tags, pinned comment | `.venv/bin/python tools/make_metadata.py` | `output/title.txt`, `description.txt`, `tags.txt`, `pinned_comment.txt` |
 | Rules check | `.venv/bin/python tools/lint_text.py` | pass or fail list |
 
 Quick visual checks: `tools/contact_sheet.py VIDEO OUT.png --every 5` makes a labelled grid of frames.
@@ -77,6 +77,7 @@ is converted to a whole number of frames, so each scene video has exactly as man
 * Every code file starts with "Written by Claude Sonnet 5.5".
 * The last video frame shows "Script and video made with Claude Sonnet 5.5".
 * `description.txt` contains "Script written by Claude Sonnet 5.5. All servers and characters shown are fictional."
+* Every title option, the description and the pinned comment carry an AI disclosure (YouTube length limits are asserted).
 * No em dashes (or en dashes) anywhere in code, script, captions or metadata, so none appear on screen.
 * All names are invented. No real logos, servers or users. All art is drawn in code.
 

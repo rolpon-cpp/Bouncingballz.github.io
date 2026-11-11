@@ -32,4 +32,4 @@ fi
 $PY tools/make_thumbnail.py                                 # Step 7
 $PY tools/make_metadata.py                                  # Step 8
 $PY tools/lint_text.py                                      # rules check
-echo "Done. Files are in output/: final.mp4, thumbnail.png, title.txt, description.txt, tags.txt, captions.srt"
+echo "Done. Files are in output/: final.mp4, thumbnail.png, title.txt, description.txt, tags.txt, pinned_comment.txt, captions.srt"
