@@ -1,0 +1,36 @@
+Why do Discord moderators have a reputation for power-tripping? This short animated story follows one strict mod, one banned member and one quiet 3 a.m. cleanup to show where the stereotype comes from, why it keeps feeding itself, and what members, mods and server owners can do about it.
+
+CHAPTERS
+0:00 Cold open: the mod everyone knows
+0:48 The job nobody applied for
+1:50 Reason 1: The tiny crown
+2:16 Reason 2: You only see the punishments
+2:39 Reason 3: How mods get picked
+3:03 Reason 4: Memes turn stories into a type
+3:32 Why it keeps happening
+3:47 Unpaid jobs pay in status
+4:03 Mods see the worst of the internet daily
+4:22 There is no appeal
+4:42 The wrong people stay
+5:03 The mods you never notice
+5:49 What to do: members, mods and server owners
+6:13 Closing: the unban
+
+IN THIS VIDEO
+- Most Discord moderators are unpaid volunteers
+- Four reasons the stereotype exists: the tiny crown, you only see the punishments, how mods get picked, and memes
+- Why the stereotype feeds itself: no training, no appeal, burnout
+- Quick checklists for members, mods and server owners
+
+Got a mod story? Comment it. No names please.
+
+Script written by Claude Sonnet 5.5. All servers and characters shown are fictional.
+
+CREDITS AND NOTES
+- Video made with Claude Sonnet 5.5, using Manim, ffmpeg and Pillow. All art is original and drawn in code.
+- Narration is a synthetic voice (Piper text-to-speech, public-domain voice en_US-ljspeech-high).
+- Sound effects are synthesized. No music is used.
+- Graphics marked "Illustrative, not real data" are examples, not statistics.
+- Not affiliated with or endorsed by Discord. Discord is a trademark of its owner.
+
+#Discord #Moderators #OnlineCommunities

@@ -1,0 +1,9 @@
+scene 1: 1429 frames (47.63 s), plan 1429, 1920x1080 30/1: OK
+scene 2: 1861 frames (62.03 s), plan 1861, 1920x1080 30/1: OK
+scene 3: 3045 frames (101.50 s), plan 3045, 1920x1080 30/1: OK
+scene 4: 2739 frames (91.30 s), plan 2739, 1920x1080 30/1: OK
+scene 5: 2103 frames (70.10 s), plan 2103, 1920x1080 30/1: OK
+scene 6: 1165 frames (38.83 s), plan 1165, 1920x1080 30/1: OK
+audio: input -18.58 LUFS, true peak -1.66 dBTP -> normalised to -16 LUFS
+final.mp4: 411.40 s, 30.2 MB, streams {'h264': 411.4, 'aac': 411.4}
+expected duration 411.40 s (6:51.4)
