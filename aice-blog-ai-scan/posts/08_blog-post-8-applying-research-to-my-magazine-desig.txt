@@ -1,0 +1,29 @@
+TITLE: Blog Post #8: Applying Research to My Magazine Design
+DATE: 2026-08-31T18:27:55
+MODIFIED: 2026-08-31T18:27:56
+URL: https://lalitnunna.edublogs.org/2026/08/31/blog-post-8-applying-research-to-my-magazine-design/
+
+My Design Plan
+
+My vision for my magazine will be a minimalist and detailed for an audience between the ages of 14 to 18 who are interested in game development and have creative talents. I want readers to have a first impression of curiousity in learning game production. The mood will be between exciting and neutral, and the style will be focused on not being flashy while using interesting graphics that fit the topic of the paragraphs.
+
+Cover Image
+
+I will use images of cameras looking at computer monitors & whiteboards, concept sketches of characters, real code, model wireframes, and popular game production software. These suit my genre since they are very connected to video games while also showing exactly how people produce the games. This will naturally appeal to my audience since it shows them how their own types of creative talents are used to produce their favorite games.
+
+Color Scheme and Typography
+
+I plan to use white, red, and black colors alongside standard fonts (Arial, JetBrains Mono, Fira Code, etc.). I will use more special fonts (Arcade Classic, Robonauts) when discussing key words or concepts, like a retro font to add more appeal to the concept. My research shows that lots of gaming magazines usually use this color scheme, making it a good candidate for me to use as well. People I interviewed said they like more straight-to-the-point content (less flashy graphics), so using standard fonts to explain things with a few special ones strike a good balance.
+
+Content and Cover Lines
+
+I will cover each topic of the game production process, including brainstorming, concept art, prototyping, playtesting, refinement, bug fixing, publishing, and updating. My audience will find these interesting because these processes require creative talents they have and help them better understand the development pipeline, something they are already interested in. This reflects common genre conventions as well since I show common games, technical art, big studios, and references just like other game magazines.
+
+Conclusion
+
+My audience and genre research significantly impacted my design choices. I originally thought to make a very flashy, kid-friendly tone magazine. However, after conducting research, I realized it would be much more appealing to my audience to make a magazine that explains the processes while keeping attention with interesting imagery that helps to clarify the ideas expressed in the text. I realized this because my audience seemed to prefer straight-to-the-point content as well as to be very creative and intelligent, which wouldn’t fit well with a flashy, kid-friendly type of magazine.
+
+--- IMAGES ---
+
+--- LINKS ---
+

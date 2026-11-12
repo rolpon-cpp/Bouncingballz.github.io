@@ -1,0 +1,23 @@
+TITLE: Blog Post #3: Magazine Genres: Research
+DATE: 2026-08-20T20:08:51
+MODIFIED: 2026-08-25T19:09:51
+URL: https://lalitnunna.edublogs.org/2026/08/20/magazine-genres-research/
+
+AI
+
+The key features of an AI magazine are mainly its’ premise over the newest advancements in AI, technology, positive and negative aspects of the tech, as well as what the future of AI might look like. It mainly leads into minimalism, Sci-Fi looks, and imagery of intelligence. The target audience for this magazine includes tech-savvy consumers, AI enthusiasts, and programmers. I chose AI since I like to make my own AI computer vision models at home and experiment with LLMs (Large Language Models). I have already been able to create some very cool and highly advanced things using AI, and I plan to keep experimenting with it.
+
+ROBOTICS
+
+The key features of a robotics magazine include the newest advancements in Computer Vision, designs for humanoid robots, AI intelligence, and predictions for what this tech could achieve in the future. The content styles also lean mainly on Sci-Fi, real demonstration of tech, minimalism, and imagery of robot internals. The target audiences include robot designers, D-I-Y enthusiasts, and home tinkerers interested in this type of tech. I really like robotics as it is a hobby of mine to create advanced robot cars at home, complete with wheels, batteries, sensors, processor and more. I am very much into robotics and the prominent things the technology promises us.
+
+GAME DESIGN
+
+The key features of a game design magazine include tips and tricks for designing games, specific ideas or philosophy around common video game features, and commentary on famous video games. Content styles include video-game imagery, pictures of development teams or coding workflows, and design ideas. The target audiences are gamers, indie developers, game development studios, and console enthusiasts. I chose this topic because I love playing and creating video games. I code in text, graphics, and sound to create fun experiences. I love playing games with my friends all the time.
+
+--- IMAGES ---
+https://lalitnunna.edublogs.org/files/2026/08/AI_magazine_covdr.png | alt=
+https://lalitnunna.edublogs.org/files/2026/08/ROBOTICS_magazine_cover.png | alt=
+https://lalitnunna.edublogs.org/files/2026/08/GAMEDESIGN_magazine_cover.png | alt=
+--- LINKS ---
+

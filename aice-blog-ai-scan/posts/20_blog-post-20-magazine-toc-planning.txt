@@ -1,0 +1,98 @@
+TITLE: Blog Post #20: MAGAZINE TOC: PLANNING
+DATE: 2026-10-07T13:59:37
+MODIFIED: 2026-10-07T18:56:16
+URL: https://lalitnunna.edublogs.org/2026/10/07/blog-post-20-magazine-toc-planning/
+
+## TOC COMPONENTS
+
+Basic Features
+
+MASTHEAD: GUMERE
+TOC TITLE: Features
+DATE: March 2027
+TOC PAGE NUMBERS: 2-3
+DPS PAGE NUMBERS: 4-7
+
+Category #1
+
+Category: Featured Stories
+Main Headline: The Code Behind Games
+Main Subline: Look inside popular computer games (4-7)
+Headline #2: Game Optimization
+Subline #2: Realistic lighting on your phone (15)
+
+Category #2
+
+Category: Design and Goals
+Main Headline: How Characters Are Made
+Main Subline: See how beloved characters are made (13)
+Headline #2: Sound and Music
+Subline #2: How sound is engineered for thrill (36)
+Headline #3: Level Planning and Design
+Subline #3: How to design fun levels (27)
+
+Category #3
+
+Category: Industry
+Main Headline: Indie Games Popping Off
+Main Subline: Game idea to game success (50)
+Headline #2: Mass Layoffs
+Subline #2: Thousands of employees laid off (38)
+
+Photograph #1
+
+Shows: Computer programming and code
+Supports: The Code Behind Games (4-7)
+
+Photograph #2
+
+Shows: Game level design on paper
+Supports: Level Planning and Design (27)
+
+Photograph #3
+
+Shows: 3D model wireframe of game object
+Supports: Game Optimization (15)
+
+Photograph #4
+
+Shows: Sound design and music production on paper
+Supports: Sound and Music (36)
+
+## CONTENT JUSTIFICATION
+
+Content Selection
+
+I selected the stories (i. e. mass layoffs in gaming industry, how levels are designed, game optimization) I did because all of them very important and relevant topics in the games industry that most normal gamers or consumers are often unaware about and want to learn more about. They fit my magazine genre (game development magazine) by explaining how games are made and the relevant industry around them. My audience, if they want to be informed about gaming or work in the industry, would want to learn about the design processes behind their favorite games.
+
+Categories
+
+I created each category to help group the general topic of each story together to help organize everything I wanted to say. These categories help readers go to the topic they are most interested about without needing to flip through the pages to find what they want. These categories are appropriate for my genre as well since they discuss game development.
+
+DPS Selection
+
+My “The Code Behind Games” headline ended becoming up my main DPS. It is the most important story since it covers the most central part of game development (i. e. programming and coding). The technical aspects of game development are very deep and needs 4 pages to be covered in-depth. My audience would definitely be interested in this story as they want to learn about how games are made, and covering coding in game development is very informative to them.
+
+Photography Decisions
+
+I selected the photos I picked because they are relevant to each story and help add a visual connection to the words and processes. They also fit my genre by clarifying my ideas and showing the internal activities done to make genres. These photographs also appeal to my audience because it shows them a real example of video game development work, which is something they would want to learn lots about and participate in. Original photography is important to ensure the photos match my magazine well and don’t infringe on copyright or usage violations.
+
+Audience Appeal
+
+I think “The Code Behind Games”, “Indie Games Popping Off”, and “Level Planning and Design” will be the most attractive to my audience. My audience research influenced these choices, because I intentionally chose stories like “Level Planning and Design” to appeal to the artistic people in my audience, and “The Code Behind Games” to appeal to the computer experts in my audience. I think readers would look at the relevant stories in my TOC and become very interested and curious, causing them to naturally skip to the story that intrigued them the most.
+
+## PREPARING FOR MY TOC DESIGN
+
+I want the images in my TOC to stand out the most. I will use 4 original photographs (5 in total counting the cover image), and the cover image photograph will look the most important. I want the Featured Stories category to be the most important as that is the main focus and coverage of the magazine. “The Code Behind Games” will receive the greatest emphasis as it is the core and main piece of content in the magazine. I think trying to arrange everything in an ordered way that maintains appeal will be difficult challenge for me to overcome when making my TOC.
+
+Reflection
+
+I learned how to make cohesive parts of a TOC work together and be consistent when planning my TOC. I think the easiest choices to make were the category names, since I already had an idea of what I wanted them to be. The hardest choices were my images, since I wanted to make sure I chose the best picture for my stories. Blog Posts #18 and #19 helped by making me understand how a good TOC is ordered and structured, and it taught me what design conventions work best. This planning activity gives me the framework and details to fill in to help me make the actual TOC as good and content filled as possible.
+
+--- IMAGES ---
+https://lalitnunna.edublogs.org/files/2026/09/5126-1536x1152.jpg | alt=
+https://lalitnunna.edublogs.org/files/2026/09/5125-1536x1152.jpg | alt=
+https://lalitnunna.edublogs.org/files/2026/09/5169-1024x419.jpg | alt=
+https://lalitnunna.edublogs.org/files/2026/09/5168-1536x1152.jpg | alt=
+--- LINKS ---
+

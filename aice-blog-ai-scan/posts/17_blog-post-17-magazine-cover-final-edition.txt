@@ -1,0 +1,31 @@
+TITLE: Blog Post #17: Magazine Cover – Final Edition
+DATE: 2026-09-30T13:17:59
+MODIFIED: 2026-09-30T13:18:00
+URL: https://lalitnunna.edublogs.org/2026/09/30/blog-post-17-magazine-cover-final-edition/
+
+## Final Cover
+
+Revision and Improvement
+
+Throughout the design process, I added lots of graphics and made a lot of design choices. After the draft, I made a few key changes: changing the main image, reducing the subline size, adding an outline to the font, and removing the black text boxes. The feedback about my sublines being too long is what made me to significantly shorten them down. I also got feedback that my main image had conflicting colors with my headlines, so I changed the main image to reduce clutter and color variety. I think the removal of the boxes and change of the main image boosted the quality by a large margin. Going through multiple revisions of changing various elements of my cover allowed me to slowly improve on certain aspects one by one, building up to my final cover. 
+
+Design Decisions
+
+I selected the robot image as my main cover image because it has a subject (so I can take advantage of direct address), but it also has code and planning paper in the background, which helps clearly communicate the magazine’s genre as a game design magazine and capture my audience by enticing them with game design related concepts. This image also helps support my main story (“The Code Behind Games”) as it shows code and planning paper, hinting to the game design process that I will discuss in the magazine. The color scheme of red, white, and black is appropriate for my genre since it is a simple color scheme that is readable, appealing, and has had much success with other magazine publishers like Game Developer or PC Gamer. The font choices of retro fonts combined with newspaper/magazine fonts (commonly used by other publications, Times New Roman, Maragsa, etc.) help communicate the style/purpose of my magazine (game design, behind-the-scenes) whilst sticking to magazine conventions that other genres also take advantage of. The layout is clear as it attracts attention via the main image and masthead and slowly guides readers down the image with descending headlines, eventually landing to the main story at the bottom. 
+
+Audience and Effectiveness
+
+My target audience is teenagers aged 14-18 who are interested in game design and have creative talents. My cover attracts my audience by clearly showing off as a game design magazine via my main image’s subject (the 3D game robot), using retro fonts, and having code in the background. These features are appealing to my audience and hook them in because they discuss common topics they know about or want to know about, use colors they recognize from other similar publications, and use recognizable font styles (retro arcade) to communicate their genre and provide a callback to older video games. My magazine wins over other game design magazines because it covers a wide variety of topics and looks stylistically consistent with similar colors, fonts, and text across the page.
+
+Reflection on the Production Process
+
+The most challenging part of the design process was making the main image. Trying to quickly make a quality image that works with my magazine design and theme was difficult, and I experimented with a variety of lighting conditions, subjects, and ideas for the framing of the main image. I learned how to create quality renders, how to make text look exciting and not bland, and how to place visual elements effectively. I learned that magazine design relies on conventions and clear text to work effectively, as lower-quality work that strays from conventions often turn into a poster. The planning, revisions, and peer-review significantly helped me through the design process by guiding me what to change, add, or remove next to keep improving and advancing my magazine’s design. If I had more time, I would probably try to get a better camera shot with good lighting, high-quality characters, and better communication of the magazine’s genre.
+
+Reflecting on My Progress
+
+I think I improved on three main skills with this project: how to make visually appealing images, how to work and write under pressure, and how to turn feedback into improvement. I learned to make visually appealing images by carefully aiming and testing different settings when creating my main image, like lighting, resolution, framing, and more. The tight deadlines allowed me to find ways to work even under a time crunch to create quality products, like managing time and working on assignments during free time at school. I had to learn how to take feedback from my peers and instructors and turn that into change to improve my magazine cover, like shortening down my sentences and changing my main image.
+
+--- IMAGES ---
+https://lalitnunna.edublogs.org/files/2026/09/Magazine-Cover-1-791x1024.jpg | alt=
+--- LINKS ---
+

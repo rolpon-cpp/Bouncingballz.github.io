@@ -1,0 +1,25 @@
+TITLE: Blog Post # 15: Magazine Cover -First Draft
+DATE: 2026-09-23T01:08:41
+MODIFIED: 2026-09-23T19:28:30
+URL: https://lalitnunna.edublogs.org/2026/09/23/blog-post-15-magazine-cover-first-draft/
+
+Reflection
+
+For my main image, I decided to create a new picture since my old pictures were not enough. In this picture, I added a robot with game code and game planning paper on the sides in both the background and foreground. This works better for a magazine cover since I now have a subject, so I can take advantage of direct address and camera framing.
+
+I tried to stick to my original flat plan as much as possible, placing headlines, images, and sub lines in similar locations on my masthead. However, I did end up slightly changing the proportions. I did this to better fit the text and content while keeping the subject in the main image visible.
+
+I think the bottom tagline, bar code, and headline box are the best parts of the cover design. They are clean and attract attention by standing out. I think the headline boxes, organization, images, and font selection need to improve before the final.
+
+I encountered a few challenges, mainly being the cover image and design consistency. When looking at my available photos, I couldn’t find anything suitable for a cover, so I had to create a new one. Trying to maintain clean spacing and margins with images, boxes, and text was difficult. I tried my best to get around this by using Canva’s built-in alignment tools, keeping consistent fonts and colors, adding images to fill in empty space, and grouping elements together to make certain design conventions easy to copy and reuse.
+
+Design Decisions
+
+The image shows a 3D video game robot with a blue background, code window, and paper. This connects to my magazine’s main story: the various talents, processes, and skills used to create video games (like Subnautica or Grand Theft Auto). This matches my genre’s theme around video-game development, by showing readers video game characters and video game development processes. The message that is sent to my readers by the image is that my magazine provides the secrets behind the games that they love, and they might be able to use these secrets to make influential projects of their own. This appeals to my target audience by hooking them in with a video game robot (appealing to their interest in video games) and showing them parts of the game design process via code & level planning, appealing to their creative interests and hooking them via curiosity and knowledge. This image is better since it has a subject combined with various game design elements, which better encapsulate the magazine as a whole. My other images were specifically focused on certain parts of the game design process, which are okay in isolation but don’t fully represent game design as a whole.
+
+I used retro game fonts for the masthead and headlines, as they fit my genre by being video game related and clearly communicating a video game audience. This helps create the mood of gaming and lower-level depth of video games, i. e. game design. The font is easy to read with big, bold letters and large font sizes. The font helps my stories stand out by being catchy and easy to read with one look of the eye. Other, big magazine publishers may use retro fonts to clearly communicate their connection to video games.
+
+--- IMAGES ---
+https://lalitnunna.edublogs.org/files/2026/09/Magazine-Cover-Draft-791x1024.jpg | alt=
+--- LINKS ---
+

@@ -1,0 +1,33 @@
+TITLE: Blog Post #14 – Magazine Cover Flat Plan
+DATE: 2026-09-17T19:16:24
+MODIFIED: 2026-09-22T23:55:36
+URL: https://lalitnunna.edublogs.org/2026/09/17/blog-post-14-magazine-cover-flat-plan/
+
+I made this front cover image to use. I decided to make a brand new images as my current images were not good candidates. I chose this since the robot as a subject makes it easy to make an impactful image via direct address. This appeals to my target audience by hooking them in with a video game robot (appealing to their interest in video games) and showing them parts of the game design process via code & level planning, appealing to their creative interests and hooking them via curiosity and knowledge.
+
+Magazine Details:
+Masthead: GUMERE
+Date Line: March 2027
+Issue Number: 1
+Cover Price: $3.99
+Main Image: A 3D model with one half normal and the other half wireframe with computer code and art elements.
+Main Headline: The code behind Triple-A Games
+Main Subline: Look into the development process behind the industry’s biggest games like Grand Theft Auto and Subnautica
+Headline 2: Mass layoffs in the gaming industry
+Subline 2: Big game studios laying off thousands of employees due to AI and budget cuts
+Headline 3: Indie games popping off!
+Subline 3: See how ordinary people are transforming their game ideas into overnight success
+Headline 4: The crazy math behind games
+Subline 4: Look into the insane optimization techniques used to make real–life graphics possible on lower end hardware
+
+I decided to put the headlines on both the sides and bottom of the cover as small mini boxes to keep the main image unobscured and to pack lots of headlines. Having lots of headlines inside little boxes is a common magazine convention found specifically on gaming and game development magazines. I added the tagline near the bottom since it connects the rest of the cover to the main headline, and it’s a common magazine convention to include it right above barcode and price. Barcode and price were placed at the bottom to let potential bookstores and resellers to have a clean spot to add a barcode and price.
+
+PC Gamer and Game Developer inspired me the most. Game Developer likes to have lots of text boxes on the main image that fit in slim, rectangular spaces. PC Gamer likes to add proper rectangles or circles on the main image with text on top to give the text a proper space. I decided to combine both of these two ideas for my magazine cover. My headlines also fit in rectangular boxes on the sides of the magazine, but they have their own proper shapes to improve readability.
+
+--- IMAGES ---
+https://lalitnunna.edublogs.org/files/2026/09/5469-793x1024.jpg | alt=
+https://lalitnunna.edublogs.org/files/2026/09/final_render-1024x450.png | alt=
+https://lalitnunna.edublogs.org/files/2026/09/image.png | alt=
+https://lalitnunna.edublogs.org/files/2026/09/image-1.png | alt=
+--- LINKS ---
+

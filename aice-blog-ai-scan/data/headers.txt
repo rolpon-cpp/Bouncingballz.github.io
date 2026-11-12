@@ -1,0 +1,22 @@
+HTTP/1.1 200 Connection Established
+
+HTTP/2 200 
+date: Thu, 12 Nov 2026 22:42:23 GMT
+content-type: application/json; charset=UTF-8
+server: cloudflare
+vary: Cookie
+vary: Origin
+x-robots-tag: noindex
+link: <https://lalitnunna.edublogs.org/wp-json/>; rel="https://api.w.org/"
+x-content-type-options: nosniff
+access-control-expose-headers: X-WP-Total, X-WP-TotalPages, Link
+access-control-allow-headers: Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type
+x-wp-total: 29
+x-wp-totalpages: 1
+allow: GET
+x-cache: BYPASS
+x-cache-bypass-reason: Arguments found
+cf-cache-status: DYNAMIC
+set-cookie: _cfuvid=HFcrHrqIH5EW8n9mRUbR8V_xTU0RjA77oQPBPkR9Ns0-1794523342.9012141-1.0.1.1-2OOQolY7Z1pLEZ7tlPry6djvsAxdyVmabQVlCZ_eRnU; HttpOnly; SameSite=None; Secure; Path=/; Domain=edublogs.org
+cf-ray: a5990cad19e47077-IAD
+

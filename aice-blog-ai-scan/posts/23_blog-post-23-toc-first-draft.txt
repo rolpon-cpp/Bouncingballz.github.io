@@ -1,0 +1,40 @@
+TITLE: Blog Post #23: TOC First Draft
+DATE: 2026-10-21T01:54:13
+MODIFIED: 2026-10-21T01:54:14
+URL: https://lalitnunna.edublogs.org/2026/10/21/blog-post-23-toc-first-draft/
+
+## MAGAZINE COVER
+
+## TOC DPS
+
+## Evidence of Application
+
+My flat plan remained largely the same; the layout of the masthead, TOC title, section headers, page numbers, date line and main image remained the same. The only elements that changed were the positioning of the headers, article page numbers, and the size of the section headers. These adjustments were necessary to make the text feel smooth and centered, as well as to allow the text to fit correctly in the boxes.
+
+## Critical Creative Reflection
+
+Applying TOC Research
+
+I was inspired by magazine TOCs that put the main image on one side and put the contents on the other. I incorporated the conventions of having the TOC Title and masthead at the top, as well as keeping my page numbers to the bottom to make it easy to locate without difficulty. I adopted layout techniques like hierarchy and left-middle-right splits to help vertically order the elements on the page and order the section headers. These conventions are appropriate for my genre since they are simple and they prioritize minimalism, which is commonly used in magazines to make ordered and clean designs. 
+
+Applying Audience Research
+
+My audience expects magazines to cover information in detail and to be very straight-to-the-point. I selected stories about layoffs, game coding, level design, and music because they are crucial to making games, and are essential to understand the gaming industry. I chose a photo of a 3D model cat and wire frame to represent “Industry”, since it signals developers and people working and creating on games, which represents the Industry well. I chose a picture of level design on paper for “Design and Goals”, since it represents someone thinking of the detail, progression, and appearance of a level, which is exactly what design is supposed to be. I chose a picture of computer code for “Featured Stories” since it signals the technical and programming side of games, which is what the stories in “Featured Stories” focus on. This layout appeals to my audience since it’s very simple and minimal, which helps support the “straight-to-the-point” attitude my audience prefers.
+
+Design Decisions
+
+The feature story was placed at the bottom in the biggest box and font. I put the story in the biggest box and font to help draw attention to it. I placed it at the bottom to add a unique factor to my magazine, since most magazines like to set the feature story as the first thing you read, but placing the feature story at the bottom goes against that. I placed the photographs next to my section headers to help represent or visually show the stories inside each section header. I put the pictures on the left side to make it so readers will see them first (humans read left-to-right, so left objects are seen first). This gives readers an idea of what the section header is about before they read the actual stories. I used my categories to help organize all the different stories and topics I wanted to add. This organization not only makes it easy for readers to find what they are looking for (since related information is bunched up together) but it also makes it easier for me to design, since I can make each section header customized to the topics the header covers. I stuck to my pixel-retro like font as it looks more appealing compared to other fonts and remains consistent with my magazine’s typography. I stuck to the color choices I originally used in my mood board to keep consistency and support minimalism. I placed my elements top-to-down vertically, but I placed the location of section headers to be bottom-to-top to make them stand out.
+
+Preparing for Peer Review
+
+I believe I was successful when it comes to maintaining appeal through consistent colors, fonts, and effects. I was successful at following my flat plan and building a quality layout. I am less confident in my exact positioning and images, as some things may be slightly off center by small amounts, and my images may not be the best choices. Text may feel unaligned and boxes may feel too open and empty. I would like my peers to tell me if my images are appealing and if my positioning feels right or off-center/inconsistent. I may need help improving the images to look better, as I’m still learning take good photos.
+
+Reflection
+
+I learned to how effectively design and layout components to make my magazine appealing. I think design choices like the masthead location, TOC title, and page numbers were the easiest since I followed existing conventions to help keep familiarity and mimic professional magazines. Making design choices about the layout and look of my section headers were difficult, though. Trying to order everything right and making sure it looked good was a challenge. My research helped give me ideas for what works well and looks good in a magazine, as well as what my audience would like and prefer. My TOC has developed a lot since the flat plan, since the flat plan’s vision is actually realized now. It maintains similar layout composition while sticking to the style of the main cover.
+
+--- IMAGES ---
+https://lalitnunna.edublogs.org/files/2026/10/Magazine-Cover-1-1187x1536-1-791x1024.jpg | alt=
+https://lalitnunna.edublogs.org/files/2026/10/Magazine-TOC-Draft-1024x662.jpg | alt=
+--- LINKS ---
+

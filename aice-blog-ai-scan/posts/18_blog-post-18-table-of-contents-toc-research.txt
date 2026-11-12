@@ -1,0 +1,70 @@
+TITLE: Blog Post #18: Table of Contents (TOC)-Research
+DATE: 2026-10-03T02:10:48
+MODIFIED: 2026-10-03T02:10:49
+URL: https://lalitnunna.edublogs.org/2026/10/03/blog-post-18-table-of-contents-toc-research/
+
+## Edge Magazine 2021 Issue 358
+
+## Game Player’s Magazine 1989 Issue 1
+
+## Analysis (Edge Magazine)
+
+Layout and Organization
+
+In Edge Magazine’s TOC, each story is organized side-to-side. The layout is simple, just using a few bits of text and images. The TOC guides readers by putting the most relevant stories first and giving the required page numbers to see what’s next and what’s available. The large text with small captions and big images makes it simple and easy to navigate.
+
+Visual Design
+
+Basic colors like yellow, black, and white are used. The only images on the TOC are the sub cover images for each of the stories, cropped to fit on the page better. The images are arranged alongside the page numbers and titles. The text has lots of vertical space but short horizontal space due to the tight crops of the images.
+
+Typography 
+
+A bold, large, simple letter font is used for the page numbers and headings. This typography gives the magazine a simple, straightforward, minimalist mood. The “Table of Contents” caption as the top and rightmost image stand out the most. The rightmost image stands out because it has the largest heading and image, and the Table Of Contents caption stands out as well because it uses the largest font on the page and is at the very top left, which is naturally where are eyes are primed to begin reading something.
+
+Content Selection
+
+The featured stories are mainly about game reviews, interviews, and coverage of certain games. The right most story (“DEATHLOOP CREATORS EXCLUSIVE INTERVIEW”) naturally seems to be very important because it is the tallest image. The second and third most important-appearing stories are a game review (“DISCO ELYSIUM: THE FINAL CUT”) and a simple coverage story of another game. (“APEX LEGEND’S NEWEST REVEAL”). These stories look important as well since they are the second/third tallest images in the TOC.
+
+Audience and Purpose
+
+The target audience clearly seems to be towards teenagers and adults interested in a wide variety of game releases and genres. The TOC appeals to that audience by providing a varied selection of interviews, reviews, and coverage of games. The minimalist and simple feel helps it feel like a modern technology magazine and sets up the design consistency pattern for future pages.
+
+## Analysis (Game Player’s Magazine)
+
+Layout and Organization
+
+The information is organized in a similar list manner, going down. The layout is a bit more complex with multiple shapes in the background, graphics images at the top, and a rotated “CONTENTS” caption. The TOC easily guides readers with its familiar list pattern, showing all the page numbers for all the relevant stories. The simple font and text on the list makes it easy to navigate.
+
+Visual Design
+
+Yellow, green, purple, and yellowed-white are used on the TOC. Retro games and art also appear. The images are tiled/bunched together near the top. Both the text and the images take up the two vertical halves of the image, which means both have lots of space to work with. The bottom vertical half is for the text, and the top vertical half is for the images. 
+
+Typography
+
+Simple, basic, and bold fonts are used for both the page numbers and headings. This typography helps keep the magazine more straight-to-the point and informational rather than attempting to push a mood or narrative. The large text of “CONTENTS” stands out the most because it uses a different color (purple) and is rotated to the left-side, giving the other elements spacing and catching the eye via left-to-right reading.
+
+Content Selection
+
+Stories about consoles, specific game titles, and game publishers are included. The very last title feels the most important since it is the longest and includes a famous, well-known game called “Super Mario Bros”. The magazine seems to want readers to view the middle sections of the magazine, as that’s where the most packed stories are. I can tell because every single title in the middle (stretching to the first few small titles and ending at the final very long title) is almost equal length, clearly showing how the middle is the “meat” of the magazine. 
+
+Audience and Purpose
+
+The target audience seems to be young kids and teenagers looking at game consoles and games to play. The TOC appeals to that audience by covering stories about different types of consoles and players, opinion pieces, general game coverage, and a review of the massively popular title “Super Mario Bros”. The design reflects the magazine’s genre as well. By using grids, shapes, and video game imagery, it clearly communicates the magazine’s purpose as a video game magazine alongside clean graphics.
+
+## Comparison
+
+The designs share quite a few differences and similarities. Both designs only use a handful of colors, stick to a minimalist font or style, have a large bold TOC caption, and include video game imagery. The main differences is that Edge Magazine sticks to minimalism better by using high-contrast colors while Game Player’s Magazine uses more old school, blendable colors. The TOCs also talk about games from different time periods, with Game Player’s Magazine talking about older consoles (like the Atari, NES, and Amiga) whilst Edge Magazine talks about modern titles like Monster Hunter and Apex Legends. I believe Edge is more effective as it looks more unique with its horizontally arranged stores, has better minimalist colors, and covers modern games and topics vs Game Player’s Magazine TOC which uses older color schemes, old consoles, and more generic organization. I plan to use some of the minimalist style and corresponding images style that Edge Magazine uses in my own TOC.
+
+## Applying My Research
+
+In my own TOC, I will include a large caption, simple/bold font, red/white/black color scheme, and images relevant to each story. I will use 3-4 images to represent the stories. I will organize page titles by every 2 pages and use article titles similar to the cover’s headlines. TOC Design conventions like a large TOC caption, simple background, and images appear most often in the two TOC’s I analyzed. I will use minimalism to my advantage to help make my magazine professional; minimalism allows you to build good looking designs without complex or difficult-to-design visual elements. I will avoid using odd color schemes, and cropped images in my own TOC.
+
+## Reflection
+
+Magazine TOCs surprised me with the fact that many of them are overly simple and lack extreme visual cluttering. This research taught me that gaming magazines like to stick to minimalism and various conventions like large TOC captions. Researching existing media products before creating your own is important since you can learn a lot of important information on the best ways to design your magazine, and learn how to avoid common mistakes as well. This research showed me common mistakes to avoid and good style formats to use to help me create a better looking magazine.
+
+--- IMAGES ---
+https://lalitnunna.edublogs.org/files/2026/10/TOC_1-1-791x1024.jpg | alt=
+https://lalitnunna.edublogs.org/files/2026/10/TOC_2-749x1024.jpg | alt=
+--- LINKS ---
+

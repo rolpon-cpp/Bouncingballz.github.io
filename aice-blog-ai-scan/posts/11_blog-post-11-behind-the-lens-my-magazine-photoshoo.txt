@@ -1,0 +1,36 @@
+TITLE: Blog Post #11: Behind the Lens – My Magazine Photoshoot
+DATE: 2026-09-09T21:07:58
+MODIFIED: 2026-09-10T18:53:02
+URL: https://lalitnunna.edublogs.org/2026/09/09/blog-post-11-behind-the-lens-my-magazine-photoshoot/
+
+The point of my photo shoot session was to create images that communicate the style and identity of my magazine. Each photo was taken to demonstrate a different part of the game development process and appeal to my audience’s talents and interests (i.e. creative tasks for game development).
+
+This first photo was taken to demonstrate the coding side of game production. It is a close-up shot designed to put emphasis on code. This helps create an impression of the complex processes that help make up a game. The separation border between the code and code files add an additional layer of general emphasis, making the image feel a lot more interesting to look at. The lines on the sides of the code editor and lines on the bottom of the folders give the code emphasis as well.
+
+This next photo was to demonstrate the planning and design phase of game production. It’s a close-up, high-angle shot of a paper sketch and pen, showing how designers will put ideas down on paper to see what sticks. It uses the lines (edges of the paper, facing of the pen) to add emphasis on the drawings and ideas being written down.
+
+This next image shows music production and theory of game production. It is high-angle, close-up shot. It was made to help show how producers will develop music around various themes on paper and design their sounds to fit the immersive game experience. The pen is placed in such a way to align with the rule of thirds, which draws in the eye and makes it stand out.
+
+This image shows the detailed modeling work that goes into rendering and designing 3D characters. It is a eye-level shot with the 3D cat fitting on the rule of thirds. It was made to show the mesh that comprises 3D objects and renders. Because the cat is aligned via the rule of thirds, the eyes naturally are drawn on to the cat, applying emphasis on the wire frame. The lines of the corridors and walls also provide a visual pathway to the cat.
+
+This picture shows the dense geometry inside 3D game models. It is a close up shot with the tank’s barrel lining up with the rule of thirds. This gives the tank’s barrel emphasis since the eyes are naturally drawn towards it. The photo on the side shows the low-level details of 3D models and the end results designers work towards.
+
+This screenshot shows the digital transition of the music production process, where producers turn paper ideas into reality using various software tools and instruments. The elements on the left side show how music designers use preexisting tools and song elements they already have to produce music. The elements on the right side directly show how producers make music
+
+The mise-en-scène of pictures helps show my magazine’s genre by showing the processes behind game production through direct visual representation. I used close-up shots of physical instruments for production to show tools developers use for game creation. I used in-game displays and pictures of software tools to show how physical ideas planned on paper are produced digitally. These close-up shots in particular attract my audience by giving them a detailed look into the production process and helps provide visual complements to my article. I also utilized concepts like the rule of thirds and line symmetry to add additional emphasis to important parts of the image. 
+
+These photographs appeal to my audience because it gives an appealing visual overlook into how video games are made and how their talents could fit in the production pipeline. These pictures also fit well with other game development magazines (Game Developer, Edge, 3D World), as they contain common shared things like pictures of screens and photos of development assets like music, level design, and code.
+
+I believe my photography is decently effective. My strongest image is the planning and design one, since it looks the most visually appealing and illustrates the game design process very well. It is visually appealing because it is well lit and uses the rule of thirds to naturally draw in the eye. I found that high-angle, close-up, and rule-of-thirds shots looked the most appealing because they drew in the eye better and improved clarity on the elements within the scene. To improve these photos, I would use more sunlight and a better quality camera to improve the light and sharpness of the images. While trying to shoot, I faced challenges like finding the right camera position and getting the lighting to look appealing. Trying to produce images to properly comment my genre and ideas was difficult and tricky.
+
+Overall, this experience taught me how to create original and appealing photos to help communicate ideas and visualize the game production process. I learned how to use camera angles, focus, diagrams, and visual tools to make a bland or confusing photo look good whilst complementing my magazine’s writing. These photographs will allow me to better explain concepts to my audience and attract them to keep reading, whilst fitting to conventions of game development magazines.
+
+--- IMAGES ---
+https://lalitnunna.edublogs.org/files/2026/09/5126-1024x768.jpg | alt=
+https://lalitnunna.edublogs.org/files/2026/09/5125-1024x768.jpg | alt=
+https://lalitnunna.edublogs.org/files/2026/09/5168-1024x768.jpg | alt=
+https://lalitnunna.edublogs.org/files/2026/09/5169-1024x419.jpg | alt=
+https://lalitnunna.edublogs.org/files/2026/09/5170-1024x470.png | alt=
+https://lalitnunna.edublogs.org/files/2026/09/5171-edited.png | alt=
+--- LINKS ---
+

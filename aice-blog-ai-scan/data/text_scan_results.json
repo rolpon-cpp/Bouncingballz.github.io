@@ -1,0 +1,2214 @@
+[
+ {
+  "post": "01",
+  "words": 107,
+  "scored_words": 46,
+  "ppl": 29.836,
+  "openai-community": 0.01,
+  "fakespot-ai": 0.834,
+  "Hello-SimpleAI": 0.013,
+  "burstiness_ppl_sd": 69.6,
+  "sent_len_mean": 8.8,
+  "sent_len_sd": 5.2,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 37.4,
+  "paragraphs": [
+   {
+    "words": 46,
+    "ppl": 29.836355537949526,
+    "openai-community": 0.009793318808078766,
+    "fakespot-ai": 0.8335590362548828,
+    "Hello-SimpleAI": 0.013470841571688652,
+    "text": "Hi there! My name is Lalit. I live in Tampa, Florida. I\u2019m a high school student. I love working with technology, especially programming video games & playing vi"
+   }
+  ]
+ },
+ {
+  "post": "02",
+  "words": 314,
+  "scored_words": 314,
+  "ppl": 29.161,
+  "openai-community": 0.174,
+  "fakespot-ai": 0.668,
+  "Hello-SimpleAI": 0.652,
+  "burstiness_ppl_sd": 52.6,
+  "sent_len_mean": 17.4,
+  "sent_len_sd": 6.3,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 28.7,
+  "paragraphs": [
+   {
+    "words": 107,
+    "ppl": 26.899593053507694,
+    "openai-community": 0.004062112886458635,
+    "fakespot-ai": 0.454285591840744,
+    "Hello-SimpleAI": 0.05897403135895729,
+    "text": "I used my Google Account to sign into Canva, so I could log in without needing a new password. Even better, I already made my Canva account a few years ago! I h"
+   },
+   {
+    "words": 99,
+    "ppl": 31.378662696185792,
+    "openai-community": 0.2570746839046478,
+    "fakespot-ai": 0.6959844827651978,
+    "Hello-SimpleAI": 0.9172565937042236,
+    "text": "Equipped with these tools, I decided to create a brand new design. I clicked the \u201cCreate\u201d button to produce a brand new project. Then, I selected the presentati"
+   },
+   {
+    "words": 108,
+    "ppl": 29.3695140446566,
+    "openai-community": 0.2664961814880371,
+    "fakespot-ai": 0.8543447852134705,
+    "Hello-SimpleAI": 0.997619092464447,
+    "text": "This design turned out looking really cool, and it\u2019s very interesting to see how easy it is to create good-looking stuff on Canva. I learned how to insert image"
+   }
+  ]
+ },
+ {
+  "post": "03",
+  "words": 308,
+  "scored_words": 304,
+  "ppl": 47.216,
+  "openai-community": 0.002,
+  "fakespot-ai": 0.18,
+  "Hello-SimpleAI": 0.284,
+  "burstiness_ppl_sd": 74.4,
+  "sent_len_mean": 19,
+  "sent_len_sd": 8.0,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 16.2,
+  "paragraphs": [
+   {
+    "words": 107,
+    "ppl": 45.71104765106149,
+    "openai-community": 0.0018522852333262563,
+    "fakespot-ai": 0.008398089557886124,
+    "Hello-SimpleAI": 0.0003565767838153988,
+    "text": "The key features of an AI magazine are mainly its\u2019 premise over the newest advancements in AI, technology, positive and negative aspects of the tech, as well as"
+   },
+   {
+    "words": 106,
+    "ppl": 56.41229815878875,
+    "openai-community": 0.00018132904369849712,
+    "fakespot-ai": 0.002753141103312373,
+    "Hello-SimpleAI": 0.0015648534754291177,
+    "text": "The key features of a robotics magazine include the newest advancements in Computer Vision, designs for humanoid robots, AI intelligence, and predictions for wh"
+   },
+   {
+    "words": 91,
+    "ppl": 38.273481632897756,
+    "openai-community": 0.0050969356670975685,
+    "fakespot-ai": 0.5894111394882202,
+    "Hello-SimpleAI": 0.9476745128631592,
+    "text": "The key features of a game design magazine include tips and tricks for designing games, specific ideas or philosophy around common video game features, and comm"
+   }
+  ]
+ },
+ {
+  "post": "04",
+  "words": 419,
+  "scored_words": 419,
+  "ppl": 69.535,
+  "openai-community": 0.211,
+  "fakespot-ai": 0.802,
+  "Hello-SimpleAI": 0.433,
+  "burstiness_ppl_sd": 146.3,
+  "sent_len_mean": 20.9,
+  "sent_len_sd": 10.4,
+  "em_dashes": 0,
+  "semicolons": 1,
+  "ai_vocab_per_1k": 2.4,
+  "human_markers_per_1k": 2.4,
+  "paragraphs": [
+   {
+    "words": 35,
+    "ppl": 35.84865775076735,
+    "openai-community": 0.9470662474632263,
+    "fakespot-ai": 0.9196591973304749,
+    "Hello-SimpleAI": 0.14186756312847137,
+    "text": "Gaming magazines are mainly focused on video games, specifically commentary on development, news from communities, and studios. The target audience is mainly co"
+   },
+   {
+    "words": 118,
+    "ppl": 71.45734269860804,
+    "openai-community": 0.00020018211216665804,
+    "fakespot-ai": 0.8487937450408936,
+    "Hello-SimpleAI": 0.9221580624580383,
+    "text": "As seen above, the cover design of gaming magazines is focused on showing characters, highlights, and cinematic pictures from the latest popular video games. Co"
+   },
+   {
+    "words": 122,
+    "ppl": 84.56169644188175,
+    "openai-community": 0.00023050497111398727,
+    "fakespot-ai": 0.9711822271347046,
+    "Hello-SimpleAI": 0.2488805651664734,
+    "text": "These visual conventions are effective at attracting readers, as they build up excitement and are visually appealing. Cinematic imagery from video games piques "
+   },
+   {
+    "words": 93,
+    "ppl": 49.882541320035315,
+    "openai-community": 0.5832893252372742,
+    "fakespot-ai": 0.8212783932685852,
+    "Hello-SimpleAI": 0.3963760733604431,
+    "text": "As seen above, gaming magazines usually use dark, intense, and dangerous imagery. This is intentional, as it gives the magazines and featured games a level of \u201c"
+   },
+   {
+    "words": 51,
+    "ppl": 88.09707496227463,
+    "openai-community": 0.021271083503961563,
+    "fakespot-ai": 0.17469511926174164,
+    "Hello-SimpleAI": 0.0063397930935025215,
+    "text": "The magazines shown above very much follow genre expectations. They all feature imagery of video games, contain red, black, and white color schemes, cover hardw"
+   }
+  ]
+ },
+ {
+  "post": "05",
+  "words": 431,
+  "scored_words": 431,
+  "ppl": 53.068,
+  "openai-community": 0.417,
+  "fakespot-ai": 0.518,
+  "Hello-SimpleAI": 0.336,
+  "burstiness_ppl_sd": 82.6,
+  "sent_len_mean": 17.2,
+  "sent_len_sd": 6.2,
+  "em_dashes": 0,
+  "semicolons": 1,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 7.0,
+  "paragraphs": [
+   {
+    "words": 80,
+    "ppl": 18.191526621991727,
+    "openai-community": 0.9847103953361511,
+    "fakespot-ai": 0.911778450012207,
+    "Hello-SimpleAI": 0.9767534732818604,
+    "text": "I decided to choose to make a magazine about gaming (video games). Gaming magazines cover game creation, new games, and game leaks. Specifically, I want to cove"
+   },
+   {
+    "words": 97,
+    "ppl": 40.47073686522795,
+    "openai-community": 0.09110841900110245,
+    "fakespot-ai": 0.5229157209396362,
+    "Hello-SimpleAI": 0.03908228501677513,
+    "text": "My target audience is going to mainly be teenagers wanting to be involved in game development. They will be around 13-20 years old and be interested in gaming, "
+   },
+   {
+    "words": 58,
+    "ppl": 73.6995969001775,
+    "openai-community": 0.35166168212890625,
+    "fakespot-ai": 0.29025155305862427,
+    "Hello-SimpleAI": 0.9788222908973694,
+    "text": "Magazines that inspired me include PC Gamer, Nintendo Force, and Edge. The conventions are to discuss why someone loves or dislikes a genre and big releases in "
+   },
+   {
+    "words": 113,
+    "ppl": 79.50285875483556,
+    "openai-community": 0.00022719452681485564,
+    "fakespot-ai": 0.05453138053417206,
+    "Hello-SimpleAI": 0.005756899248808622,
+    "text": "I plan to use pictures of computer design prototypes combined with game imagery to catch the attention of gamers. Game imagery will draw in gamers, communicatin"
+   },
+   {
+    "words": 83,
+    "ppl": 50.996644390224624,
+    "openai-community": 0.8636971116065979,
+    "fakespot-ai": 0.9228582382202148,
+    "Hello-SimpleAI": 0.06718067079782486,
+    "text": "For production choices, I plan to use photography showing what games look like and their development from an outside perspective. I will show designers working "
+   }
+  ]
+ },
+ {
+  "post": "06",
+  "words": 624,
+  "scored_words": 624,
+  "ppl": 42.716,
+  "openai-community": 0.072,
+  "fakespot-ai": 0.591,
+  "Hello-SimpleAI": 0.374,
+  "burstiness_ppl_sd": 101.1,
+  "sent_len_mean": 18.9,
+  "sent_len_sd": 8.5,
+  "em_dashes": 0,
+  "semicolons": 3,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 1.6,
+  "paragraphs": [
+   {
+    "words": 81,
+    "ppl": 43.97243228730601,
+    "openai-community": 0.4597207307815552,
+    "fakespot-ai": 0.8238525986671448,
+    "Hello-SimpleAI": 0.9991521835327148,
+    "text": "An audience is a group of people who are interested in or consume a specific type of content from a certain genre or person. Media producers need to understand "
+   },
+   {
+    "words": 114,
+    "ppl": 37.03507810734335,
+    "openai-community": 0.00042250362457707524,
+    "fakespot-ai": 0.45147955417633057,
+    "Hello-SimpleAI": 0.2652604281902313,
+    "text": "The Uses and Gratifications Theory suggests that audiences actively play a role in choosing what media they consume. If a consumer dislikes something, they will"
+   },
+   {
+    "words": 126,
+    "ppl": 36.000164643874015,
+    "openai-community": 0.026075610890984535,
+    "fakespot-ai": 0.9121596813201904,
+    "Hello-SimpleAI": 0.27335280179977417,
+    "text": "Gauntlett\u2019s Identity Theory states that audiences use media to help form their identities, and that identity is something that constantly changes, shaped by num"
+   },
+   {
+    "words": 87,
+    "ppl": 34.648782057052834,
+    "openai-community": 0.0486382357776165,
+    "fakespot-ai": 0.3916304111480713,
+    "Hello-SimpleAI": 0.9759692549705505,
+    "text": "Hall\u2019s Reception Theory states that a media producer will embed their values in a piece of media, but allow the audience to interpret it based off their own bel"
+   },
+   {
+    "words": 105,
+    "ppl": 44.62872688773387,
+    "openai-community": 0.00032897008350118995,
+    "fakespot-ai": 0.9628922939300537,
+    "Hello-SimpleAI": 0.010569700971245766,
+    "text": "A good example of this is the book \u201cAnimal Farm\u201d by George Orwell. A commonly contested detail in the book is the fact that the pigs simplify the rules of the f"
+   },
+   {
+    "words": 111,
+    "ppl": 59.76887831539993,
+    "openai-community": 0.00030850301845930517,
+    "fakespot-ai": 0.00324515369720757,
+    "Hello-SimpleAI": 0.016883637756109238,
+    "text": "I think Gauntlett\u2019s Identity Theory makes the most sense. People (including me) have their personality formed based off the media we consume. Especially due to "
+   }
+  ]
+ },
+ {
+  "post": "07",
+  "words": 777,
+  "scored_words": 777,
+  "ppl": 40.003,
+  "openai-community": 0.324,
+  "fakespot-ai": 0.422,
+  "Hello-SimpleAI": 0.226,
+  "burstiness_ppl_sd": 83.1,
+  "sent_len_mean": 21.6,
+  "sent_len_sd": 13.1,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 5.1,
+  "paragraphs": [
+   {
+    "words": 48,
+    "ppl": 53.5544845874452,
+    "openai-community": 0.985958993434906,
+    "fakespot-ai": 0.0622749887406826,
+    "Hello-SimpleAI": 0.2652948796749115,
+    "text": "My media product is a Gaming Magazine. I will be covering the development of video games and how modern games are produced. It\u2019s important to understand my audi"
+   },
+   {
+    "words": 73,
+    "ppl": 29.099503196918274,
+    "openai-community": 0.029438426718115807,
+    "fakespot-ai": 0.7382060885429382,
+    "Hello-SimpleAI": 0.05962427332997322,
+    "text": "For my research, I decided to ask school students at the local eSports club at my school who were playing games. I was able to ask 23 people in total, most of t"
+   },
+   {
+    "words": 126,
+    "ppl": 24.378026999197452,
+    "openai-community": 0.5457741618156433,
+    "fakespot-ai": 0.07782232761383057,
+    "Hello-SimpleAI": 0.030245648697018623,
+    "text": "The research was quite informative. The 5 questions I asked them were: \u201cHow often do you consume media about gaming, whether it be through videos or articles?\u201d,"
+   },
+   {
+    "words": 69,
+    "ppl": 40.34082937258779,
+    "openai-community": 0.014800808392465115,
+    "fakespot-ai": 0.40239202976226807,
+    "Hello-SimpleAI": 0.04584148898720741,
+    "text": "\u201cMe: Okay, the next question is: Do you have any interests outside of gaming? So, like, do you have anything cool you do outside of gaming? Subject: I like to d"
+   },
+   {
+    "words": 63,
+    "ppl": 60.340281842863995,
+    "openai-community": 0.4549086391925812,
+    "fakespot-ai": 0.3040860891342163,
+    "Hello-SimpleAI": 0.9878722429275513,
+    "text": "These findings are important since they show that people prefer more straight-to-the-point magazines, and how game development is a big share of these people\u2019s "
+   },
+   {
+    "words": 61,
+    "ppl": 26.990347379946115,
+    "openai-community": 0.18948303163051605,
+    "fakespot-ai": 0.9640709757804871,
+    "Hello-SimpleAI": 0.374888151884079,
+    "text": "My target audience is going to be aged around 14-18, which includes teens and young adults interested in gaming. Their interests will include gaming, art, music"
+   },
+   {
+    "words": 86,
+    "ppl": 54.35249675653988,
+    "openai-community": 0.007442981470376253,
+    "fakespot-ai": 0.0585571750998497,
+    "Hello-SimpleAI": 0.0006726690917275846,
+    "text": "I chose this audience because it\u2019s the ideal audience according to my research. Gaming is an activity most commonly practiced by teens and young adults (ages 18"
+   },
+   {
+    "words": 74,
+    "ppl": 42.27266353442275,
+    "openai-community": 0.008332215249538422,
+    "fakespot-ai": 0.36483827233314514,
+    "Hello-SimpleAI": 0.3070940375328064,
+    "text": "My audience mainly needs information to learn and be informed. Because they focus on game development, they need info on how the game production pipeline works "
+   },
+   {
+    "words": 70,
+    "ppl": 57.33214743172686,
+    "openai-community": 0.9860088229179382,
+    "fakespot-ai": 0.26744526624679565,
+    "Hello-SimpleAI": 0.21852926909923553,
+    "text": "I believe Gauntlett\u2019s Identity Theory will help me explain my audience. My audience is interested in creative work, like arts & music. They will naturally want "
+   },
+   {
+    "words": 107,
+    "ppl": 30.546278420070006,
+    "openai-community": 0.2049730271100998,
+    "fakespot-ai": 0.9769383072853088,
+    "Hello-SimpleAI": 0.26437434554100037,
+    "text": "My target audience includes people ages 14-18 who are interested in game development with creative talents like art, music, or coding. Probably the most importa"
+   }
+  ]
+ },
+ {
+  "post": "08",
+  "words": 419,
+  "scored_words": 405,
+  "ppl": 52.998,
+  "openai-community": 0.193,
+  "fakespot-ai": 0.818,
+  "Hello-SimpleAI": 0.073,
+  "burstiness_ppl_sd": 68.8,
+  "sent_len_mean": 23.8,
+  "sent_len_sd": 7.3,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 9.5,
+  "paragraphs": [
+   {
+    "words": 74,
+    "ppl": 47.63472952578144,
+    "openai-community": 0.07613898813724518,
+    "fakespot-ai": 0.9248512387275696,
+    "Hello-SimpleAI": 0.06697939336299896,
+    "text": "My vision for my magazine will be a minimalist and detailed for an audience between the ages of 14 to 18 who are interested in game development and have creativ"
+   },
+   {
+    "words": 71,
+    "ppl": 70.0690177622804,
+    "openai-community": 0.004709563683718443,
+    "fakespot-ai": 0.6185442209243774,
+    "Hello-SimpleAI": 0.004631826188415289,
+    "text": "I will use images of cameras looking at computer monitors & whiteboards, concept sketches of characters, real code, model wireframes, and popular game productio"
+   },
+   {
+    "words": 96,
+    "ppl": 45.90041643844279,
+    "openai-community": 0.0004799485031981021,
+    "fakespot-ai": 0.87127685546875,
+    "Hello-SimpleAI": 0.056099772453308105,
+    "text": "I plan to use white, red, and black colors alongside standard fonts (Arial, JetBrains Mono, Fira Code, etc.). I will use more special fonts (Arcade Classic, Rob"
+   },
+   {
+    "words": 73,
+    "ppl": 66.09057903702212,
+    "openai-community": 0.9830926656723022,
+    "fakespot-ai": 0.6349547505378723,
+    "Hello-SimpleAI": 0.010973562486469746,
+    "text": "I will cover each topic of the game production process, including brainstorming, concept art, prototyping, playtesting, refinement, bug fixing, publishing, and "
+   },
+   {
+    "words": 91,
+    "ppl": 41.02433589949771,
+    "openai-community": 0.0025522231590002775,
+    "fakespot-ai": 0.9788849949836731,
+    "Hello-SimpleAI": 0.19966429471969604,
+    "text": "My audience and genre research significantly impacted my design choices. I originally thought to make a very flashy, kid-friendly tone magazine. However, after "
+   }
+  ]
+ },
+ {
+  "post": "09",
+  "words": 451,
+  "scored_words": 451,
+  "ppl": 54.873,
+  "openai-community": 0.088,
+  "fakespot-ai": 0.317,
+  "Hello-SimpleAI": 0.49,
+  "burstiness_ppl_sd": 81.6,
+  "sent_len_mean": 19.6,
+  "sent_len_sd": 4.7,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 8.9,
+  "paragraphs": [
+   {
+    "words": 68,
+    "ppl": 51.865480825277245,
+    "openai-community": 0.3899228870868683,
+    "fakespot-ai": 0.6559439301490784,
+    "Hello-SimpleAI": 0.9686897397041321,
+    "text": "I created this mood board to help assist me with designing the actual magazine and correctly using images towards my topic. With this mood board, I will be able"
+   },
+   {
+    "words": 174,
+    "ppl": 41.85890954032846,
+    "openai-community": 0.0009463238529860973,
+    "fakespot-ai": 0.23154297471046448,
+    "Hello-SimpleAI": 0.11112935096025467,
+    "text": "I selected to use 2 images of computer workstations since they represent both my audience\u2019s interests and the general topic very well. They give a physical depi"
+   },
+   {
+    "words": 73,
+    "ppl": 73.14813763691826,
+    "openai-community": 0.022132307291030884,
+    "fakespot-ai": 0.10028304904699326,
+    "Hello-SimpleAI": 0.9729395508766174,
+    "text": "This mood board reflects my audience\u2019s interests since it shows how the work and talents used to create games are the very same talents they have. I show common"
+   },
+   {
+    "words": 74,
+    "ppl": 57.05770312404485,
+    "openai-community": 0.0847114771604538,
+    "fakespot-ai": 0.2841491401195526,
+    "Hello-SimpleAI": 0.037999071180820465,
+    "text": "When designing my magazine, I plan to use my mood board\u2019s focus on physical photos combined with digital ones to help represent the production pipeline. I plan "
+   },
+   {
+    "words": 62,
+    "ppl": 70.57084290946119,
+    "openai-community": 0.08014459908008575,
+    "fakespot-ai": 0.48040664196014404,
+    "Hello-SimpleAI": 0.9981772899627686,
+    "text": "My mood board helped me build a clear blueprint for my magazine\u2019s design and look. It will help me guide my choices when picking out photos, colors, and special"
+   }
+  ]
+ },
+ {
+  "post": "10",
+  "words": 931,
+  "scored_words": 896,
+  "ppl": 53.619,
+  "openai-community": 0.025,
+  "fakespot-ai": 0.772,
+  "Hello-SimpleAI": 0.805,
+  "burstiness_ppl_sd": 145.2,
+  "sent_len_mean": 16.6,
+  "sent_len_sd": 4.8,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 1.1,
+  "human_markers_per_1k": 4.3,
+  "paragraphs": [
+   {
+    "words": 102,
+    "ppl": 47.81105456485661,
+    "openai-community": 0.0002452483167871833,
+    "fakespot-ai": 0.9578911066055298,
+    "Hello-SimpleAI": 0.9992220401763916,
+    "text": "High Angle is when the shots are taken above, looking down at a subject. Photographers may choose this angle because they want to make something feel inferior o"
+   },
+   {
+    "words": 99,
+    "ppl": 60.31611779220423,
+    "openai-community": 0.05802955850958824,
+    "fakespot-ai": 0.18528641760349274,
+    "Hello-SimpleAI": 0.9991826415061951,
+    "text": "Bird\u2019s Eye View are similar to High Angle, but the angle looks straight down more. Photographers may use this angle because they want to give a complete image o"
+   },
+   {
+    "words": 83,
+    "ppl": 40.390604367723746,
+    "openai-community": 0.014104957692325115,
+    "fakespot-ai": 0.9815572500228882,
+    "Hello-SimpleAI": 0.9992223978042603,
+    "text": "Extreme close ups are when shots are taken very close to the subject. This helps add extra emphasis on the subject and communicates small details from the subje"
+   },
+   {
+    "words": 110,
+    "ppl": 48.956251674612695,
+    "openai-community": 0.0008975369273684919,
+    "fakespot-ai": 0.967564582824707,
+    "Hello-SimpleAI": 0.9991770386695862,
+    "text": "Eye Level Angle is when the shots are taken at eye level, looking straight ahead towards a subject. Photographers may choose this angle because they want to dir"
+   },
+   {
+    "words": 119,
+    "ppl": 51.90353165183552,
+    "openai-community": 0.008787444792687893,
+    "fakespot-ai": 0.976479709148407,
+    "Hello-SimpleAI": 0.9988294243812561,
+    "text": "Long shots are when shots are taken with a wide field of view with a subject and surrounding environment. Photographers may choose this angle to help communicat"
+   },
+   {
+    "words": 103,
+    "ppl": 48.81167342911064,
+    "openai-community": 0.0031242771074175835,
+    "fakespot-ai": 0.9995324611663818,
+    "Hello-SimpleAI": 0.9992175102233887,
+    "text": "Medium shots are when shots of a subject are taken waist to head up. Photographers usually choose this to photograph people, as it gives the person full emphasi"
+   },
+   {
+    "words": 107,
+    "ppl": 76.75683610248034,
+    "openai-community": 0.00016942931688390672,
+    "fakespot-ai": 0.02568485587835312,
+    "Hello-SimpleAI": 0.27944308519363403,
+    "text": "Medium, Long, and Eye Level shots help show authority by adding focus on a subject or showing an environment based around a subject. Extreme close ups help buil"
+   },
+   {
+    "words": 106,
+    "ppl": 49.65204355575647,
+    "openai-community": 0.0007745594484731555,
+    "fakespot-ai": 0.9553108811378479,
+    "Hello-SimpleAI": 0.08991396427154541,
+    "text": "For my magazine cover, I plan to use an extreme close up. I will use Eye Level shots, Bird\u2019s Eye View, and High Angle Shots. These are the best choices for my a"
+   },
+   {
+    "words": 67,
+    "ppl": 56.36908725240538,
+    "openai-community": 0.20499692857265472,
+    "fakespot-ai": 0.95908522605896,
+    "Hello-SimpleAI": 0.9972443580627441,
+    "text": "Understanding camera shots and angles allows me to better understand how to frame subjects in a photo to communicate a purpose. It allows me to produce photos l"
+   }
+  ]
+ },
+ {
+  "post": "11",
+  "words": 848,
+  "scored_words": 848,
+  "ppl": 52.69,
+  "openai-community": 0.469,
+  "fakespot-ai": 0.605,
+  "Hello-SimpleAI": 0.517,
+  "burstiness_ppl_sd": 75.8,
+  "sent_len_mean": 19.7,
+  "sent_len_sd": 6.9,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 5.9,
+  "paragraphs": [
+   {
+    "words": 48,
+    "ppl": 50.35002899830064,
+    "openai-community": 0.8523963689804077,
+    "fakespot-ai": 0.3541858196258545,
+    "Hello-SimpleAI": 0.13686686754226685,
+    "text": "The point of my photo shoot session was to create images that communicate the style and identity of my magazine. Each photo was taken to demonstrate a different"
+   },
+   {
+    "words": 89,
+    "ppl": 34.178894822502585,
+    "openai-community": 0.997806966304779,
+    "fakespot-ai": 0.9991154074668884,
+    "Hello-SimpleAI": 0.998602569103241,
+    "text": "This first photo was taken to demonstrate the coding side of game production. It is a close-up shot designed to put emphasis on code. This helps create an impre"
+   },
+   {
+    "words": 61,
+    "ppl": 56.57484334901034,
+    "openai-community": 0.967366099357605,
+    "fakespot-ai": 0.3812538981437683,
+    "Hello-SimpleAI": 0.9530007243156433,
+    "text": "This next photo was to demonstrate the planning and design phase of game production. It\u2019s a close-up, high-angle shot of a paper sketch and pen, showing how des"
+   },
+   {
+    "words": 67,
+    "ppl": 49.58522769985324,
+    "openai-community": 0.9991193413734436,
+    "fakespot-ai": 0.5406782627105713,
+    "Hello-SimpleAI": 0.9893205165863037,
+    "text": "This next image shows music production and theory of game production. It is high-angle, close-up shot. It was made to help show how producers will develop music"
+   },
+   {
+    "words": 83,
+    "ppl": 47.18338485351682,
+    "openai-community": 0.9678598642349243,
+    "fakespot-ai": 0.47991427779197693,
+    "Hello-SimpleAI": 0.9864889979362488,
+    "text": "This image shows the detailed modeling work that goes into rendering and designing 3D characters. It is a eye-level shot with the 3D cat fitting on the rule of "
+   },
+   {
+    "words": 60,
+    "ppl": 68.74273088553547,
+    "openai-community": 0.03749879077076912,
+    "fakespot-ai": 0.027998344972729683,
+    "Hello-SimpleAI": 0.11604996025562286,
+    "text": "This picture shows the dense geometry inside 3D game models. It is a close up shot with the tank\u2019s barrel lining up with the rule of thirds. This gives the tank"
+   },
+   {
+    "words": 58,
+    "ppl": 41.60793092283587,
+    "openai-community": 0.0029671380762010813,
+    "fakespot-ai": 0.589412271976471,
+    "Hello-SimpleAI": 0.16503587365150452,
+    "text": "This screenshot shows the digital transition of the music production process, where producers turn paper ideas into reality using various software tools and ins"
+   },
+   {
+    "words": 105,
+    "ppl": 57.55371233677821,
+    "openai-community": 0.0003392089856788516,
+    "fakespot-ai": 0.08130456507205963,
+    "Hello-SimpleAI": 0.02530794031918049,
+    "text": "The mise-en-sc\u00e8ne of pictures helps show my magazine\u2019s genre by showing the processes behind game production through direct visual representation. I used close-"
+   },
+   {
+    "words": 65,
+    "ppl": 75.52342427730993,
+    "openai-community": 0.8457574248313904,
+    "fakespot-ai": 0.9301738142967224,
+    "Hello-SimpleAI": 0.0912308543920517,
+    "text": "These photographs appeal to my audience because it gives an appealing visual overlook into how video games are made and how their talents could fit in the produ"
+   },
+   {
+    "words": 138,
+    "ppl": 40.265773059355574,
+    "openai-community": 0.000289757241262123,
+    "fakespot-ai": 0.9323459267616272,
+    "Hello-SimpleAI": 0.6399708390235901,
+    "text": "I believe my photography is decently effective. My strongest image is the planning and design one, since it looks the most visually appealing and illustrates th"
+   },
+   {
+    "words": 74,
+    "ppl": 74.14029856077539,
+    "openai-community": 0.056364525109529495,
+    "fakespot-ai": 0.9991536140441895,
+    "Hello-SimpleAI": 0.3159668445587158,
+    "text": "Overall, this experience taught me how to create original and appealing photos to help communicate ideas and visualize the game production process. I learned ho"
+   }
+  ]
+ },
+ {
+  "post": "12",
+  "words": 1769,
+  "scored_words": 1749,
+  "ppl": 68.032,
+  "openai-community": 0.066,
+  "fakespot-ai": 0.546,
+  "Hello-SimpleAI": 0.766,
+  "burstiness_ppl_sd": 166.7,
+  "sent_len_mean": 17.8,
+  "sent_len_sd": 6.7,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 7.3,
+  "paragraphs": [
+   {
+    "words": 156,
+    "ppl": 79.22293305922115,
+    "openai-community": 0.0012795341899618506,
+    "fakespot-ai": 0.39937353134155273,
+    "Hello-SimpleAI": 0.9246842861175537,
+    "text": "The masthead of the magazine is at the center of the image and is mildly prominent as it is put in medium-sized text. The title suggests the magazine will be co"
+   },
+   {
+    "words": 89,
+    "ppl": 46.21220066553422,
+    "openai-community": 0.3546425998210907,
+    "fakespot-ai": 0.05881289392709732,
+    "Hello-SimpleAI": 0.9960283041000366,
+    "text": "The magazine features many mini-headlines covering many different but related topics. Certain game releases, gaming technology, and How-2-Play guides are includ"
+   },
+   {
+    "words": 132,
+    "ppl": 69.93243115644175,
+    "openai-community": 0.00021782502881251276,
+    "fakespot-ai": 0.16384606063365936,
+    "Hello-SimpleAI": 0.9975674152374268,
+    "text": "Captialized, bolded, modern fonts are used. The typography helps reinforce the game\u2019s dark-and-gritty theme by not adding silly or humorous letters. Red, whire,"
+   },
+   {
+    "words": 111,
+    "ppl": 74.96653949592438,
+    "openai-community": 0.0002749910927377641,
+    "fakespot-ai": 0.5004260540008545,
+    "Hello-SimpleAI": 0.04697181284427643,
+    "text": "The intended reader seems to be gamers specifically invested in the shooter game genre. I can infer this from the fact that this magazine says Battlefield 3 is "
+   },
+   {
+    "words": 62,
+    "ppl": 156.05240483574258,
+    "openai-community": 0.5626301169395447,
+    "fakespot-ai": 0.07692264020442963,
+    "Hello-SimpleAI": 0.04373006895184517,
+    "text": "This cover is good at attracting attention by using it\u2019s bold title and subject. It clearly communicates the genre by mentioning \u201cGamer\u201d, shooters, and top-game"
+   },
+   {
+    "words": 136,
+    "ppl": 53.62327370852825,
+    "openai-community": 0.00031977472826838493,
+    "fakespot-ai": 0.542846143245697,
+    "Hello-SimpleAI": 0.9755708575248718,
+    "text": "The name of the magazine is PC Gamer with the masthead at the top. It is very prominent as it is placed in a large font. The title instantly suggests the magazi"
+   },
+   {
+    "words": 66,
+    "ppl": 124.65983442355815,
+    "openai-community": 0.013772819191217422,
+    "fakespot-ai": 0.007598976604640484,
+    "Hello-SimpleAI": 0.0027902312576770782,
+    "text": "Headlines like \u201cRevealed: The smash RPG\u2019s massive sequel\u201d and \u201cInside the BioWare RPG of your dreams\u201d help attract attention using impactful and emotional words"
+   },
+   {
+    "words": 181,
+    "ppl": 48.91364379072319,
+    "openai-community": 0.016185330227017403,
+    "fakespot-ai": 0.9687137603759766,
+    "Hello-SimpleAI": 0.9989107847213745,
+    "text": "Red, blue, black, and white colors are used, which help make the magazine feel modern and stylistic. Bolded, large, normal, and fancy fonts support a modern and"
+   },
+   {
+    "words": 58,
+    "ppl": 100.26533619894492,
+    "openai-community": 0.02443549782037735,
+    "fakespot-ai": 0.344532310962677,
+    "Hello-SimpleAI": 0.9470721483230591,
+    "text": "This magazine cover attracts attention well using the cinematic photo of the game character. It helps communicate the magazine genre via big words like \u201cPC Game"
+   },
+   {
+    "words": 158,
+    "ppl": 39.90812521761192,
+    "openai-community": 0.00021658824698533863,
+    "fakespot-ai": 0.9731492400169373,
+    "Hello-SimpleAI": 0.9979357719421387,
+    "text": "The name and masthead of the magazine is at the top \u201cROGUE\u201d, and it is very prominent. The title alone suggests the magazine challenges the status quo and is ve"
+   },
+   {
+    "words": 138,
+    "ppl": 55.247504797269,
+    "openai-community": 0.0017344498774036765,
+    "fakespot-ai": 0.8968316316604614,
+    "Hello-SimpleAI": 0.9750756621360779,
+    "text": "Newspaper & print fonts are used to help maintain readability whilst adding an appealing style to the magazine. Warm, light colors like red, brown, and beige he"
+   },
+   {
+    "words": 76,
+    "ppl": 65.00472335364144,
+    "openai-community": 0.00021954919793643057,
+    "fakespot-ai": 0.92014080286026,
+    "Hello-SimpleAI": 0.5019025206565857,
+    "text": "Overall, the cover gives feelings of awe and curiosity. It attracts attention via a close-up shot of a fashion model. It clearly communicates the magazine\u2019s gen"
+   },
+   {
+    "words": 172,
+    "ppl": 57.64844370260743,
+    "openai-community": 0.00019321888976264745,
+    "fakespot-ai": 0.6911206841468811,
+    "Hello-SimpleAI": 0.9887914657592773,
+    "text": "There are many similarities and differences between the 3 magazines. In all 3 magazines, the cover shot is usually a shot of a character or model taken as a clo"
+   },
+   {
+    "words": 54,
+    "ppl": 87.17270067779772,
+    "openai-community": 0.011528296396136284,
+    "fakespot-ai": 0.7402449250221252,
+    "Hello-SimpleAI": 0.007429094053804874,
+    "text": "For my own magazine, I plan to use a close-up, medium shot of a disassembled game character. I will use an eye level camera angle. These choices are good becaus"
+   },
+   {
+    "words": 85,
+    "ppl": 35.31627582791683,
+    "openai-community": 0.07699983566999435,
+    "fakespot-ai": 0.14328470826148987,
+    "Hello-SimpleAI": 0.9172928333282471,
+    "text": "I will include the magazine conventions of covering a wide range of topics and having a close-up shot of my subject. The fashion cover inspired me the most, as "
+   },
+   {
+    "words": 75,
+    "ppl": 114.73884296062647,
+    "openai-community": 0.47644880414009094,
+    "fakespot-ai": 0.22331391274929047,
+    "Hello-SimpleAI": 0.260274738073349,
+    "text": "For the CCR Question, my magazine uses visual conventions like the large bold font and masthead. I will use content conventions like gaming photos and a wide va"
+   }
+  ]
+ },
+ {
+  "post": "13",
+  "words": 773,
+  "scored_words": 764,
+  "ppl": 49.587,
+  "openai-community": 0.231,
+  "fakespot-ai": 0.183,
+  "Hello-SimpleAI": 0.423,
+  "burstiness_ppl_sd": 114.7,
+  "sent_len_mean": 21.2,
+  "sent_len_sd": 6.3,
+  "em_dashes": 0,
+  "semicolons": 1,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 2.6,
+  "paragraphs": [
+   {
+    "words": 117,
+    "ppl": 35.22669078361331,
+    "openai-community": 0.0004674523661378771,
+    "fakespot-ai": 0.3680024743080139,
+    "Hello-SimpleAI": 0.16410815715789795,
+    "text": "I selected to make a game development magazine. I chose this genre because it is a genre that I am very knowledgeable about and that I am passionate about mysel"
+   },
+   {
+    "words": 148,
+    "ppl": 66.0925329614261,
+    "openai-community": 0.0002587807539384812,
+    "fakespot-ai": 0.03970925509929657,
+    "Hello-SimpleAI": 0.0889580249786377,
+    "text": "Flat Plan A has the masthead and skyline at the top, which help provide even spacing and clearly communicate the magazine brand. The main cover line and subhead"
+   },
+   {
+    "words": 116,
+    "ppl": 34.4820168282262,
+    "openai-community": 0.9270169734954834,
+    "fakespot-ai": 0.03553958609700203,
+    "Hello-SimpleAI": 0.9989107847213745,
+    "text": "Flat Plan B is similar to Flat Plan A, but it has a few key changes that separate it. Just like Flat Plan A, Flat Plan B also has a main image and masthead to h"
+   },
+   {
+    "words": 170,
+    "ppl": 54.46044565696444,
+    "openai-community": 0.0001699650747468695,
+    "fakespot-ai": 0.019529152661561966,
+    "Hello-SimpleAI": 0.2223024219274521,
+    "text": "Flat Plan C is nearly identical to Flat Plan A with only a few minor differences. Once again, the masthead, skyline, main image, barcodes, price, issue, and dat"
+   },
+   {
+    "words": 133,
+    "ppl": 46.43023878400694,
+    "openai-community": 0.008204282261431217,
+    "fakespot-ai": 0.10918412357568741,
+    "Hello-SimpleAI": 0.857681155204773,
+    "text": "These three cover flat plans have many similarities and differences. They all usually contain a masthead, main image, and places to add extra headlines or conte"
+   },
+   {
+    "words": 80,
+    "ppl": 56.85208853435564,
+    "openai-community": 0.8451540470123291,
+    "fakespot-ai": 0.8631466627120972,
+    "Hello-SimpleAI": 0.2919774353504181,
+    "text": "Overall, Flat Plan B inspired me the most as it shows how I can fit a lot of game development aspects on the front cover. In my own flat plan, I will include th"
+   }
+  ]
+ },
+ {
+  "post": "14",
+  "words": 417,
+  "scored_words": 289,
+  "ppl": 58.539,
+  "openai-community": 0.001,
+  "fakespot-ai": 0.029,
+  "Hello-SimpleAI": 0.1,
+  "burstiness_ppl_sd": 117.7,
+  "sent_len_mean": 22.2,
+  "sent_len_sd": 10.3,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 2.4,
+  "paragraphs": [
+   {
+    "words": 92,
+    "ppl": 64.31102626898709,
+    "openai-community": 0.00021999112505000085,
+    "fakespot-ai": 0.02929788827896118,
+    "Hello-SimpleAI": 0.0026309355162084103,
+    "text": "I made this front cover image to use. I decided to make a brand new images as my current images were not good candidates. I chose this since the robot as a subj"
+   },
+   {
+    "words": 109,
+    "ppl": 66.69662183612391,
+    "openai-community": 0.0004069207061547786,
+    "fakespot-ai": 0.0011080345138907433,
+    "Hello-SimpleAI": 0.013197757303714752,
+    "text": "I decided to put the headlines on both the sides and bottom of the cover as small mini boxes to keep the main image unobscured and to pack lots of headlines. Ha"
+   },
+   {
+    "words": 88,
+    "ppl": 42.40078482221628,
+    "openai-community": 0.0018789618043228984,
+    "fakespot-ai": 0.06346867233514786,
+    "Hello-SimpleAI": 0.30927926301956177,
+    "text": "PC Gamer and Game Developer inspired me the most. Game Developer likes to have lots of text boxes on the main image that fit in slim, rectangular spaces. PC Gam"
+   }
+  ]
+ },
+ {
+  "post": "15",
+  "words": 545,
+  "scored_words": 542,
+  "ppl": 47.812,
+  "openai-community": 0.231,
+  "fakespot-ai": 0.446,
+  "Hello-SimpleAI": 0.215,
+  "burstiness_ppl_sd": 46.5,
+  "sent_len_mean": 21.6,
+  "sent_len_sd": 9.3,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 3.7,
+  "paragraphs": [
+   {
+    "words": 65,
+    "ppl": 53.573717226543195,
+    "openai-community": 0.8177617192268372,
+    "fakespot-ai": 0.48741480708122253,
+    "Hello-SimpleAI": 0.030621344223618507,
+    "text": "For my main image, I decided to create a new picture since my old pictures were not enough. In this picture, I added a robot with game code and game planning pa"
+   },
+   {
+    "words": 53,
+    "ppl": 41.909078808357854,
+    "openai-community": 0.636542797088623,
+    "fakespot-ai": 0.9895917773246765,
+    "Hello-SimpleAI": 0.24506157636642456,
+    "text": "I tried to stick to my original flat plan as much as possible, placing headlines, images, and sub lines in similar locations on my masthead. However, I did end "
+   },
+   {
+    "words": 43,
+    "ppl": 66.24467494622046,
+    "openai-community": 0.05607959255576134,
+    "fakespot-ai": 0.2420937865972519,
+    "Hello-SimpleAI": 0.03490547835826874,
+    "text": "I think the bottom tagline, bar code, and headline box are the best parts of the cover design. They are clean and attract attention by standing out. I think the"
+   },
+   {
+    "words": 89,
+    "ppl": 42.48672868869726,
+    "openai-community": 0.0017321816412732005,
+    "fakespot-ai": 0.9981673955917358,
+    "Hello-SimpleAI": 0.9524450898170471,
+    "text": "I encountered a few challenges, mainly being the cover image and design consistency. When looking at my available photos, I couldn\u2019t find anything suitable for "
+   },
+   {
+    "words": 198,
+    "ppl": 42.39267807112799,
+    "openai-community": 0.00017718825256451964,
+    "fakespot-ai": 0.019864335656166077,
+    "Hello-SimpleAI": 0.05270722135901451,
+    "text": "The image shows a 3D video game robot with a blue background, code window, and paper. This connects to my magazine\u2019s main story: the various talents, processes,"
+   },
+   {
+    "words": 94,
+    "ppl": 55.182210135480574,
+    "openai-community": 0.37902936339378357,
+    "fakespot-ai": 0.5800787806510925,
+    "Hello-SimpleAI": 0.052833061665296555,
+    "text": "I used retro game fonts for the masthead and headlines, as they fit my genre by being video game related and clearly communicating a video game audience. This h"
+   }
+  ]
+ },
+ {
+  "post": "16",
+  "words": 735,
+  "scored_words": 735,
+  "ppl": 43.537,
+  "openai-community": 0.001,
+  "fakespot-ai": 0.298,
+  "Hello-SimpleAI": 0.346,
+  "burstiness_ppl_sd": 136.9,
+  "sent_len_mean": 22.3,
+  "sent_len_sd": 7.1,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 2.7,
+  "paragraphs": [
+   {
+    "words": 197,
+    "ppl": 52.08756053385965,
+    "openai-community": 0.0014749722322449088,
+    "fakespot-ai": 0.38391026854515076,
+    "Hello-SimpleAI": 0.030861305072903633,
+    "text": "I peer-reviewed my peer\u2019s magazine cover, who was making a women\u2019s sports magazine. The target audience seemed to be comprised of people who enjoy sports and im"
+   },
+   {
+    "words": 137,
+    "ppl": 40.29999277809993,
+    "openai-community": 0.0002074541844194755,
+    "fakespot-ai": 0.11683887988328934,
+    "Hello-SimpleAI": 0.012918941676616669,
+    "text": "I was able to learn how to avoid common design mistakes and pitfalls by peer-reviewing another\u2019s magazine cover, as well as how to improve my main image. The ma"
+   },
+   {
+    "words": 151,
+    "ppl": 30.24462392252372,
+    "openai-community": 0.00019873543351422995,
+    "fakespot-ai": 0.20247434079647064,
+    "Hello-SimpleAI": 0.00041167496237903833,
+    "text": "I gave my peer some feedback to help them improve their magazine cover. For example, I told them to shorten down their headlines as some of them were too long. "
+   },
+   {
+    "words": 170,
+    "ppl": 41.10483385786085,
+    "openai-community": 0.0001868949766503647,
+    "fakespot-ai": 0.20384246110916138,
+    "Hello-SimpleAI": 0.985630452632904,
+    "text": "Receiving feedback from others is important as it helps improve and grow our design skills. Peer review helps the designer notice strengths and weaknesses they "
+   },
+   {
+    "words": 80,
+    "ppl": 58.278610423939696,
+    "openai-community": 0.0006067117210477591,
+    "fakespot-ai": 0.775025486946106,
+    "Hello-SimpleAI": 0.98496013879776,
+    "text": "This activity developed my ability to understand design choices, critique designs effectively, and audiences. By analyzing my peer\u2019s cover, I was able to go thr"
+   }
+  ]
+ },
+ {
+  "post": "17",
+  "words": 764,
+  "scored_words": 744,
+  "ppl": 48.015,
+  "openai-community": 0.005,
+  "fakespot-ai": 0.604,
+  "Hello-SimpleAI": 0.557,
+  "burstiness_ppl_sd": 56.0,
+  "sent_len_mean": 29.8,
+  "sent_len_sd": 10.1,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 2.6,
+  "paragraphs": [
+   {
+    "words": 136,
+    "ppl": 31.048824261743686,
+    "openai-community": 0.0005167241906747222,
+    "fakespot-ai": 0.9084588289260864,
+    "Hello-SimpleAI": 0.8876851797103882,
+    "text": "Throughout the design process, I added lots of graphics and made a lot of design choices. After the draft, I made a few key changes: changing the main image, re"
+   },
+   {
+    "words": 204,
+    "ppl": 61.88751897063439,
+    "openai-community": 0.0006056876154616475,
+    "fakespot-ai": 0.022520840167999268,
+    "Hello-SimpleAI": 0.006942315958440304,
+    "text": "I selected the robot image as my main cover image because it has a subject (so I can take advantage of direct address), but it also has code and planning paper "
+   },
+   {
+    "words": 129,
+    "ppl": 61.15568773444625,
+    "openai-community": 0.0001692229852778837,
+    "fakespot-ai": 0.7542808651924133,
+    "Hello-SimpleAI": 0.18335793912410736,
+    "text": "My target audience is teenagers aged 14-18 who are interested in game design and have creative talents. My cover attracts my audience by clearly showing off as "
+   },
+   {
+    "words": 155,
+    "ppl": 39.932185979611575,
+    "openai-community": 0.0007714920211583376,
+    "fakespot-ai": 0.6722803115844727,
+    "Hello-SimpleAI": 0.9721714854240417,
+    "text": "The most challenging part of the design process was making the main image. Trying to quickly make a quality image that works with my magazine design and theme w"
+   },
+   {
+    "words": 120,
+    "ppl": 39.974918127168316,
+    "openai-community": 0.02665286511182785,
+    "fakespot-ai": 0.997897744178772,
+    "Hello-SimpleAI": 0.9811734557151794,
+    "text": "I think I improved on three main skills with this project: how to make visually appealing images, how to work and write under pressure, and how to turn feedback"
+   }
+  ]
+ },
+ {
+  "post": "18",
+  "words": 1148,
+  "scored_words": 1096,
+  "ppl": 53.611,
+  "openai-community": 0.334,
+  "fakespot-ai": 0.167,
+  "Hello-SimpleAI": 0.398,
+  "burstiness_ppl_sd": 127.3,
+  "sent_len_mean": 19.6,
+  "sent_len_sd": 9.4,
+  "em_dashes": 0,
+  "semicolons": 1,
+  "ai_vocab_per_1k": 1.7,
+  "human_markers_per_1k": 6.1,
+  "paragraphs": [
+   {
+    "words": 62,
+    "ppl": 47.50964898777308,
+    "openai-community": 0.9898348450660706,
+    "fakespot-ai": 0.3262503743171692,
+    "Hello-SimpleAI": 0.9214510321617126,
+    "text": "In Edge Magazine\u2019s TOC, each story is organized side-to-side. The layout is simple, just using a few bits of text and images. The TOC guides readers by putting "
+   },
+   {
+    "words": 61,
+    "ppl": 41.55759702550277,
+    "openai-community": 0.000635122531093657,
+    "fakespot-ai": 0.28799086809158325,
+    "Hello-SimpleAI": 0.7363431453704834,
+    "text": "Basic colors like yellow, black, and white are used. The only images on the TOC are the sub cover images for each of the stories, cropped to fit on the page bet"
+   },
+   {
+    "words": 90,
+    "ppl": 46.773883071866024,
+    "openai-community": 0.9371375441551208,
+    "fakespot-ai": 0.13482148945331573,
+    "Hello-SimpleAI": 0.9985008239746094,
+    "text": "A bold, large, simple letter font is used for the page numbers and headings. This typography gives the magazine a simple, straightforward, minimalist mood. The "
+   },
+   {
+    "words": 78,
+    "ppl": 51.40577051395519,
+    "openai-community": 0.29252296686172485,
+    "fakespot-ai": 0.0075622862204909325,
+    "Hello-SimpleAI": 0.0033724105451256037,
+    "text": "The featured stories are mainly about game reviews, interviews, and coverage of certain games. The right most story (\u201cDEATHLOOP CREATORS EXCLUSIVE INTERVIEW\u201d) n"
+   },
+   {
+    "words": 62,
+    "ppl": 58.59261213627077,
+    "openai-community": 0.03815695270895958,
+    "fakespot-ai": 0.5371375679969788,
+    "Hello-SimpleAI": 0.9964863061904907,
+    "text": "The target audience clearly seems to be towards teenagers and adults interested in a wide variety of game releases and genres. The TOC appeals to that audience "
+   },
+   {
+    "words": 67,
+    "ppl": 81.99725976145129,
+    "openai-community": 0.17450393736362457,
+    "fakespot-ai": 0.47159162163734436,
+    "Hello-SimpleAI": 0.12315553426742554,
+    "text": "The information is organized in a similar list manner, going down. The layout is a bit more complex with multiple shapes in the background, graphics images at t"
+   },
+   {
+    "words": 66,
+    "ppl": 28.025655151196663,
+    "openai-community": 0.9699051976203918,
+    "fakespot-ai": 0.14643840491771698,
+    "Hello-SimpleAI": 0.9916861653327942,
+    "text": "Yellow, green, purple, and yellowed-white are used on the TOC. Retro games and art also appear. The images are tiled/bunched together near the top. Both the tex"
+   },
+   {
+    "words": 68,
+    "ppl": 55.91788617960788,
+    "openai-community": 0.028435103595256805,
+    "fakespot-ai": 0.38404780626296997,
+    "Hello-SimpleAI": 0.9960848093032837,
+    "text": "Simple, basic, and bold fonts are used for both the page numbers and headings. This typography helps keep the magazine more straight-to-the point and informatio"
+   },
+   {
+    "words": 96,
+    "ppl": 60.5012769044415,
+    "openai-community": 0.08061185479164124,
+    "fakespot-ai": 0.007133948151022196,
+    "Hello-SimpleAI": 0.12490389496088028,
+    "text": "Stories about consoles, specific game titles, and game publishers are included. The very last title feels the most important since it is the longest and include"
+   },
+   {
+    "words": 80,
+    "ppl": 67.04721877883749,
+    "openai-community": 0.00031649484299123287,
+    "fakespot-ai": 0.20590640604496002,
+    "Hello-SimpleAI": 0.053201835602521896,
+    "text": "The target audience seems to be young kids and teenagers looking at game consoles and games to play. The TOC appeals to that audience by covering stories about "
+   },
+   {
+    "words": 160,
+    "ppl": 52.06647794722245,
+    "openai-community": 0.00020527918240986764,
+    "fakespot-ai": 0.05703766644001007,
+    "Hello-SimpleAI": 0.0091526685282588,
+    "text": "The designs share quite a few differences and similarities. Both designs only use a handful of colors, stick to a minimalist font or style, have a large bold TO"
+   },
+   {
+    "words": 110,
+    "ppl": 50.67948204682641,
+    "openai-community": 0.995821475982666,
+    "fakespot-ai": 0.0063405586406588554,
+    "Hello-SimpleAI": 0.0010359983425587416,
+    "text": "In my own TOC, I will include a large caption, simple/bold font, red/white/black color scheme, and images relevant to each story. I will use 3-4 images to repre"
+   },
+   {
+    "words": 96,
+    "ppl": 54.19052226642647,
+    "openai-community": 0.0033269862178713083,
+    "fakespot-ai": 0.04488317668437958,
+    "Hello-SimpleAI": 0.24244000017642975,
+    "text": "Magazine TOCs surprised me with the fact that many of them are overly simple and lack extreme visual cluttering. This research taught me that gaming magazines l"
+   }
+  ]
+ },
+ {
+  "post": "19",
+  "words": 1944,
+  "scored_words": 1850,
+  "ppl": 47.725,
+  "openai-community": 0.288,
+  "fakespot-ai": 0.455,
+  "Hello-SimpleAI": 0.499,
+  "burstiness_ppl_sd": 69.5,
+  "sent_len_mean": 23.4,
+  "sent_len_sd": 8.9,
+  "em_dashes": 0,
+  "semicolons": 1,
+  "ai_vocab_per_1k": 1.0,
+  "human_markers_per_1k": 8.2,
+  "paragraphs": [
+   {
+    "words": 167,
+    "ppl": 38.25127756058328,
+    "openai-community": 0.15015238523483276,
+    "fakespot-ai": 0.7748823761940002,
+    "Hello-SimpleAI": 0.991950273513794,
+    "text": "The first thing the eyes are drawn to is the large \u201cTable of Contents\u201d header, as it is in a large font and is placed at the top-left of the image, which is whe"
+   },
+   {
+    "words": 134,
+    "ppl": 50.39976369297771,
+    "openai-community": 0.0017711046384647489,
+    "fakespot-ai": 0.3671044111251831,
+    "Hello-SimpleAI": 0.1197320893406868,
+    "text": "The first thing my eyes are drawn to are the images at the top, which contain game screenshots and retro art. I think the designer wanted to catch reader\u2019s atte"
+   },
+   {
+    "words": 142,
+    "ppl": 57.27648676204295,
+    "openai-community": 0.000542924739420414,
+    "fakespot-ai": 0.13845421373844147,
+    "Hello-SimpleAI": 0.5812044143676758,
+    "text": "I think the designer intentionally organized the page in a left-to-right manner to help easily guide readers through the table of contents and to remain modern-"
+   },
+   {
+    "words": 164,
+    "ppl": 55.833585759288866,
+    "openai-community": 0.00018394867947790772,
+    "fakespot-ai": 0.5828624367713928,
+    "Hello-SimpleAI": 0.30871832370758057,
+    "text": "I think the designer intentionally organized the page in a simple, book-style manner is to help make the magazine feel familiar and easy-to-read. The list-like "
+   },
+   {
+    "words": 114,
+    "ppl": 33.23690707198594,
+    "openai-community": 0.014878353103995323,
+    "fakespot-ai": 0.8050816059112549,
+    "Hello-SimpleAI": 0.05848667025566101,
+    "text": "I believe the images in TOC #1 were chosen because each image was the corresponding image to one of the magazine stories. The images support the magazine\u2019s genr"
+   },
+   {
+    "words": 98,
+    "ppl": 48.25880658340814,
+    "openai-community": 0.8771236538887024,
+    "fakespot-ai": 0.2693915069103241,
+    "Hello-SimpleAI": 0.9822240471839905,
+    "text": "I believe the images in TOC #2 were chosen to help add appeal and excite readers with the games they might see inside the magazine. The images support the magaz"
+   },
+   {
+    "words": 108,
+    "ppl": 51.859557995942346,
+    "openai-community": 0.009188343770802021,
+    "fakespot-ai": 0.564551055431366,
+    "Hello-SimpleAI": 0.8825376033782959,
+    "text": "The fonts on TOC #1 were chosen to help maintain minimalism and consistency with the basic color scheme and lack of visual elements. These fonts help reinforce "
+   },
+   {
+    "words": 69,
+    "ppl": 62.97431206200386,
+    "openai-community": 0.7153047919273376,
+    "fakespot-ai": 0.017310936003923416,
+    "Hello-SimpleAI": 0.9827253222465515,
+    "text": "The fonts on TOC #2 were chosen to help keep simplicity. The whole TOC only uses 1 font, just with different colors. This helps reinforce the magazine\u2019s identit"
+   },
+   {
+    "words": 101,
+    "ppl": 54.035909644442334,
+    "openai-community": 0.00033850938780233264,
+    "fakespot-ai": 0.07362816482782364,
+    "Hello-SimpleAI": 0.11166150122880936,
+    "text": "The colors (being black, white, and yellow) help support the magazine\u2019s genre and objective as a minimalist and informative magazine with no visual clutter or f"
+   },
+   {
+    "words": 86,
+    "ppl": 52.43664577856844,
+    "openai-community": 0.9991569519042969,
+    "fakespot-ai": 0.2999100089073181,
+    "Hello-SimpleAI": 0.9917759895324707,
+    "text": "The colors (being white, purple, yellow, black, and green) support the magazine\u2019s genre and objective with a variety of colors for varied visual elements, refle"
+   },
+   {
+    "words": 120,
+    "ppl": 37.50694155070336,
+    "openai-community": 0.9990079998970032,
+    "fakespot-ai": 0.8971421122550964,
+    "Hello-SimpleAI": 0.9990555644035339,
+    "text": "The target audience is people who are interested in the latest game releases and what people think of them. This is evident because TOC #1 has a lot of game rev"
+   },
+   {
+    "words": 104,
+    "ppl": 27.487266165143616,
+    "openai-community": 0.9905539155006409,
+    "fakespot-ai": 0.9995030164718628,
+    "Hello-SimpleAI": 0.9972831010818481,
+    "text": "The target audience is kids, teenagers, or young adults who want to learn about all the different spheres and communities of gaming. This is evident by the fact"
+   },
+   {
+    "words": 176,
+    "ppl": 19.443069313475505,
+    "openai-community": 0.001297315931878984,
+    "fakespot-ai": 0.22215215861797333,
+    "Hello-SimpleAI": 0.05405062437057495,
+    "text": "I think TOC #1 has the strongest layout overall, as it looks a lot more stylistically consistent and modern than TOC #2. TOC #1 wins in color scheme as it uses "
+   },
+   {
+    "words": 42,
+    "ppl": 64.41924513677777,
+    "openai-community": 0.05916982889175415,
+    "fakespot-ai": 0.046839941293001175,
+    "Hello-SimpleAI": 0.0015006832545623183,
+    "text": "I plan to include the simplicity of TOC #1\u2019s colors, fonts, and left-to-right placement in my own TOC. I believe these features are effective because they keep "
+   },
+   {
+    "words": 55,
+    "ppl": 120.52121208413362,
+    "openai-community": 0.9974464178085327,
+    "fakespot-ai": 0.008305316790938377,
+    "Hello-SimpleAI": 0.007750166580080986,
+    "text": "TOC #2\u2019s design choices to use a familiar book style and more color variety makes the magazine feel less unique and less clean. They do not work well because th"
+   },
+   {
+    "words": 76,
+    "ppl": 81.59875332041292,
+    "openai-community": 0.03612373396754265,
+    "fakespot-ai": 0.012781967408955097,
+    "Hello-SimpleAI": 0.029744669795036316,
+    "text": "I plan to include a 3-color scheme because it effectively helped readers to learn the magazine\u2019s design style quickly and add a level of recognizability to my m"
+   },
+   {
+    "words": 94,
+    "ppl": 33.0906777611746,
+    "openai-community": 0.001154293306171894,
+    "fakespot-ai": 0.8552781343460083,
+    "Hello-SimpleAI": 0.09719252586364746,
+    "text": "The most effective TOC feature I encountered was the left-to-right contents arrangement of TOC #1. The least effective one was the varied color scheme of TOC #2"
+   }
+  ]
+ },
+ {
+  "post": "20",
+  "words": 848,
+  "scored_words": 643,
+  "ppl": 49.185,
+  "openai-community": 0.199,
+  "fakespot-ai": 0.334,
+  "Hello-SimpleAI": 0.26,
+  "burstiness_ppl_sd": 647.3,
+  "sent_len_mean": 22.1,
+  "sent_len_sd": 8.4,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 7.1,
+  "paragraphs": [
+   {
+    "words": 95,
+    "ppl": 45.35960382451936,
+    "openai-community": 0.3081440329551697,
+    "fakespot-ai": 0.0088493125513196,
+    "Hello-SimpleAI": 0.0024303810205310583,
+    "text": "I selected the stories (i. e. mass layoffs in gaming industry, how levels are designed, game optimization) I did because all of them very important and relevant"
+   },
+   {
+    "words": 61,
+    "ppl": 38.71174142665195,
+    "openai-community": 0.21756821870803833,
+    "fakespot-ai": 0.9509070515632629,
+    "Hello-SimpleAI": 0.24744151532649994,
+    "text": "I created each category to help group the general topic of each story together to help organize everything I wanted to say. These categories help readers go to "
+   },
+   {
+    "words": 80,
+    "ppl": 65.90779636930239,
+    "openai-community": 0.011144129559397697,
+    "fakespot-ai": 0.09929535537958145,
+    "Hello-SimpleAI": 0.0008644875488243997,
+    "text": "My \u201cThe Code Behind Games\u201d headline ended becoming up my main DPS. It is the most important story since it covers the most central part of game development (i. "
+   },
+   {
+    "words": 94,
+    "ppl": 72.2968668079693,
+    "openai-community": 0.2917421758174896,
+    "fakespot-ai": 0.2521601915359497,
+    "Hello-SimpleAI": 0.33089590072631836,
+    "text": "I selected the photos I picked because they are relevant to each story and help add a visual connection to the words and processes. They also fit my genre by cl"
+   },
+   {
+    "words": 93,
+    "ppl": 33.76133444823407,
+    "openai-community": 0.5869959592819214,
+    "fakespot-ai": 0.5413026213645935,
+    "Hello-SimpleAI": 0.1459469050168991,
+    "text": "I think \u201cThe Code Behind Games\u201d, \u201cIndie Games Popping Off\u201d, and \u201cLevel Planning and Design\u201d will be the most attractive to my audience. My audience research inf"
+   },
+   {
+    "words": 104,
+    "ppl": 57.21951589445117,
+    "openai-community": 0.011939094401896,
+    "fakespot-ai": 0.016829971224069595,
+    "Hello-SimpleAI": 0.0043573337607085705,
+    "text": "I want the images in my TOC to stand out the most. I will use 4 original photographs (5 in total counting the cover image), and the cover image photograph will "
+   },
+   {
+    "words": 116,
+    "ppl": 32.726664511320756,
+    "openai-community": 0.011844081804156303,
+    "fakespot-ai": 0.6197926998138428,
+    "Hello-SimpleAI": 0.9210847616195679,
+    "text": "I learned how to make cohesive parts of a TOC work together and be consistent when planning my TOC. I think the easiest choices to make were the category names,"
+   }
+  ]
+ },
+ {
+  "post": "21",
+  "words": 507,
+  "scored_words": 482,
+  "ppl": 54.449,
+  "openai-community": 0.414,
+  "fakespot-ai": 0.315,
+  "Hello-SimpleAI": 0.322,
+  "burstiness_ppl_sd": 83.3,
+  "sent_len_mean": 23.0,
+  "sent_len_sd": 7.6,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 5.9,
+  "paragraphs": [
+   {
+    "words": 86,
+    "ppl": 60.96715948099741,
+    "openai-community": 0.7377772331237793,
+    "fakespot-ai": 0.18936102092266083,
+    "Hello-SimpleAI": 0.15357977151870728,
+    "text": "I think TOC Flat Plan #2 has the most effective layout. The layout was simple and non-cluttered, yet it had clearly labeled sections to list out articles and ad"
+   },
+   {
+    "words": 83,
+    "ppl": 81.00410065387973,
+    "openai-community": 0.0029337494634091854,
+    "fakespot-ai": 0.004150549881160259,
+    "Hello-SimpleAI": 0.02616860531270504,
+    "text": "Photos are used in all TOC Flat plans to maintain reader interest via visual simulation and provide readers with a visual idea of what to expect up ahead. I thi"
+   },
+   {
+    "words": 136,
+    "ppl": 26.261740240026548,
+    "openai-community": 0.9998032450675964,
+    "fakespot-ai": 0.33921682834625244,
+    "Hello-SimpleAI": 0.9954220652580261,
+    "text": "In all 3 Flat Plans, Page Numbers, Headlines, and Sublines were organized very differently. In Flat Plan #1, the headlines, page numbers, and sublines were all "
+   },
+   {
+    "words": 75,
+    "ppl": 48.908093031088555,
+    "openai-community": 0.0010441202903166413,
+    "fakespot-ai": 0.3164101243019104,
+    "Hello-SimpleAI": 0.008025898598134518,
+    "text": "I will use the multi-page design element from TOC #2 in my own TOC. I will avoid compacting lots of information into lots of tiny boxes like TOC #3. My TOC will"
+   },
+   {
+    "words": 102,
+    "ppl": 69.00276629332387,
+    "openai-community": 0.00026616884861141443,
+    "fakespot-ai": 0.6427225470542908,
+    "Hello-SimpleAI": 0.03795482963323593,
+    "text": "I learned good styling conventions and layouts for TOCs in my research of TOC flat plans. TOC Layout #2 inspired me the most since it was the most visually appe"
+   }
+  ]
+ },
+ {
+  "post": "22",
+  "words": 701,
+  "scored_words": 687,
+  "ppl": 42.628,
+  "openai-community": 0.001,
+  "fakespot-ai": 0.432,
+  "Hello-SimpleAI": 0.087,
+  "burstiness_ppl_sd": 103.5,
+  "sent_len_mean": 24.5,
+  "sent_len_sd": 11.1,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 5.7,
+  "paragraphs": [
+   {
+    "words": 195,
+    "ppl": 35.83761674540428,
+    "openai-community": 0.00017618013953324407,
+    "fakespot-ai": 0.7716252207756042,
+    "Hello-SimpleAI": 0.13431715965270996,
+    "text": "I placed the masthead and TOC Title at the top to stick to magazine convention and allow readers to quickly identify the pages. I placed the main image on the l"
+   },
+   {
+    "words": 165,
+    "ppl": 32.72724191213329,
+    "openai-community": 0.00032410380663350224,
+    "fakespot-ai": 0.38089683651924133,
+    "Hello-SimpleAI": 0.15804189443588257,
+    "text": "I believe the two most important elements are my main image and first header. They deserve the most space since they are the defining elements of my magazine. T"
+   },
+   {
+    "words": 97,
+    "ppl": 42.38273375082476,
+    "openai-community": 0.004436578135937452,
+    "fakespot-ai": 0.8427485823631287,
+    "Hello-SimpleAI": 0.03460541367530823,
+    "text": "My target audience are teenagers 14-18 who have creative talents and are interested in game development. This layout appeals to them because it provides space f"
+   },
+   {
+    "words": 79,
+    "ppl": 68.83998961984449,
+    "openai-community": 0.0025643552653491497,
+    "fakespot-ai": 0.009623512625694275,
+    "Hello-SimpleAI": 0.008403063751757145,
+    "text": "In my previous blog post, Flat Plan #2 inspired me the most since it was a functional DPS (double page spread) and it put the main image on the entire left page"
+   },
+   {
+    "words": 151,
+    "ppl": 48.6581128348521,
+    "openai-community": 0.00018313959299121052,
+    "fakespot-ai": 0.006161228753626347,
+    "Hello-SimpleAI": 0.021325573325157166,
+    "text": "During the planning process, I learned how to clearly organize magazine elements in a clean and appealing way. I think putting the main image on the left side o"
+   }
+  ]
+ },
+ {
+  "post": "23",
+  "words": 864,
+  "scored_words": 837,
+  "ppl": 46.146,
+  "openai-community": 0.054,
+  "fakespot-ai": 0.409,
+  "Hello-SimpleAI": 0.359,
+  "burstiness_ppl_sd": 90.9,
+  "sent_len_mean": 22.6,
+  "sent_len_sd": 7.9,
+  "em_dashes": 0,
+  "semicolons": 1,
+  "ai_vocab_per_1k": 2.3,
+  "human_markers_per_1k": 3.5,
+  "paragraphs": [
+   {
+    "words": 72,
+    "ppl": 32.243898411900574,
+    "openai-community": 0.5326123833656311,
+    "fakespot-ai": 0.9750629663467407,
+    "Hello-SimpleAI": 0.002874302677810192,
+    "text": "My flat plan remained largely the same; the layout of the masthead, TOC title, section headers, page numbers, date line and main image remained the same. The on"
+   },
+   {
+    "words": 103,
+    "ppl": 59.612759943299004,
+    "openai-community": 0.0004386115469969809,
+    "fakespot-ai": 0.9929584264755249,
+    "Hello-SimpleAI": 0.28071272373199463,
+    "text": "I was inspired by magazine TOCs that put the main image on one side and put the contents on the other. I incorporated the conventions of having the TOC Title an"
+   },
+   {
+    "words": 158,
+    "ppl": 37.636812091272965,
+    "openai-community": 0.00033672701101750135,
+    "fakespot-ai": 0.5449962019920349,
+    "Hello-SimpleAI": 0.034090619534254074,
+    "text": "My audience expects magazines to cover information in detail and to be very straight-to-the-point. I selected stories about layoffs, game coding, level design, "
+   },
+   {
+    "words": 263,
+    "ppl": 28.876622016717835,
+    "openai-community": 0.0001744759501889348,
+    "fakespot-ai": 0.013795300386846066,
+    "Hello-SimpleAI": 0.9938344955444336,
+    "text": "The feature story was placed at the bottom in the biggest box and font. I put the story in the biggest box and font to help draw attention to it. I placed it at"
+   },
+   {
+    "words": 110,
+    "ppl": 53.53330602691251,
+    "openai-community": 0.008728745393455029,
+    "fakespot-ai": 0.6529921889305115,
+    "Hello-SimpleAI": 0.015265615656971931,
+    "text": "I believe I was successful when it comes to maintaining appeal through consistent colors, fonts, and effects. I was successful at following my flat plan and bui"
+   },
+   {
+    "words": 131,
+    "ppl": 81.92687207775026,
+    "openai-community": 0.04410373046994209,
+    "fakespot-ai": 0.06433500349521637,
+    "Hello-SimpleAI": 0.02345256321132183,
+    "text": "I learned to how effectively design and layout components to make my magazine appealing. I think design choices like the masthead location, TOC title, and page "
+   }
+  ]
+ },
+ {
+  "post": "24",
+  "words": 1023,
+  "scored_words": 985,
+  "ppl": 58.506,
+  "openai-community": 0.254,
+  "fakespot-ai": 0.447,
+  "Hello-SimpleAI": 0.052,
+  "burstiness_ppl_sd": 147.1,
+  "sent_len_mean": 23.5,
+  "sent_len_sd": 9.8,
+  "em_dashes": 0,
+  "semicolons": 1,
+  "ai_vocab_per_1k": 1.0,
+  "human_markers_per_1k": 6.8,
+  "paragraphs": [
+   {
+    "words": 98,
+    "ppl": 49.542485814958475,
+    "openai-community": 0.3384265899658203,
+    "fakespot-ai": 0.8313151001930237,
+    "Hello-SimpleAI": 0.008708576671779156,
+    "text": "When reviewing my peer\u2019s TOC, I saw he was making a lifestyle magazine. The magazine was well designed with a clear hierarchy, consistent colors, and consistent"
+   },
+   {
+    "words": 99,
+    "ppl": 79.53706085494001,
+    "openai-community": 0.00017822033260017633,
+    "fakespot-ai": 0.004546452313661575,
+    "Hello-SimpleAI": 0.0041664838790893555,
+    "text": "I while I didn\u2019t pick up any new design ideas or philosophies altogether, I did see how clean layout and good color schemes can really work well to make a good-"
+   },
+   {
+    "words": 96,
+    "ppl": 75.60204417286592,
+    "openai-community": 0.7118487358093262,
+    "fakespot-ai": 0.0029365343507379293,
+    "Hello-SimpleAI": 0.0019381607417017221,
+    "text": "The most important feedback I gave was to simply just fix a few spelling errors and give the main story more emphasis. The most important feedback I got was to "
+   },
+   {
+    "words": 154,
+    "ppl": 68.96783206530282,
+    "openai-community": 0.001790810376405716,
+    "fakespot-ai": 0.1467772275209427,
+    "Hello-SimpleAI": 0.02034785971045494,
+    "text": "Outside perspectives are valuable because they can essentially allow you to see your magazine through a new lens; you aren\u2019t limited by your own likes, conventi"
+   },
+   {
+    "words": 122,
+    "ppl": 53.153077352609834,
+    "openai-community": 0.0004261337162461132,
+    "fakespot-ai": 0.03768136352300644,
+    "Hello-SimpleAI": 0.010697340592741966,
+    "text": "I will clean up my layout and sizing of my TOC elements, specifically my headlines, masthead, and sublines. These changes are necessary to make the magazine loo"
+   },
+   {
+    "words": 97,
+    "ppl": 60.348396230177194,
+    "openai-community": 0.6720559000968933,
+    "fakespot-ai": 0.595253050327301,
+    "Hello-SimpleAI": 0.01442502997815609,
+    "text": "My peer used TOC conventions very well. He placed his elements in a top-to-down format, placing the headline story first with the other category stories to the "
+   },
+   {
+    "words": 60,
+    "ppl": 50.29334022832773,
+    "openai-community": 0.005056434776633978,
+    "fakespot-ai": 0.8316780924797058,
+    "Hello-SimpleAI": 0.2749556303024292,
+    "text": "My peer targeted his intended audience very well by using catchy headlines, simple typography, and professional-looking photos. The headlines about lifestyle an"
+   },
+   {
+    "words": 48,
+    "ppl": 33.35231832718727,
+    "openai-community": 0.7314544916152954,
+    "fakespot-ai": 0.9883368611335754,
+    "Hello-SimpleAI": 0.29809123277664185,
+    "text": "The most useful comments were the ones telling me to fix my layout, spacing, and sizing. These comments helped me realize that my inconsistent spacing was notic"
+   },
+   {
+    "words": 121,
+    "ppl": 39.776144770461165,
+    "openai-community": 0.00021156377624720335,
+    "fakespot-ai": 0.7149795889854431,
+    "Hello-SimpleAI": 0.06284861266613007,
+    "text": "The three main revisions I will do to my TOC are: size changes, position changes, and layout changes. More specifically, I will be reducing the size of my masth"
+   },
+   {
+    "words": 90,
+    "ppl": 58.340391209831395,
+    "openai-community": 0.5350974798202515,
+    "fakespot-ai": 0.9973368048667908,
+    "Hello-SimpleAI": 0.05656423792243004,
+    "text": "I learned that TOC design relies on clean consistency across the whole magazine, and that the maintaining professionalism requires good spelling, consistent fon"
+   }
+  ]
+ },
+ {
+  "post": "25",
+  "words": 634,
+  "scored_words": 616,
+  "ppl": 55.109,
+  "openai-community": 0.002,
+  "fakespot-ai": 0.579,
+  "Hello-SimpleAI": 0.017,
+  "burstiness_ppl_sd": 110.5,
+  "sent_len_mean": 19.9,
+  "sent_len_sd": 6.6,
+  "em_dashes": 0,
+  "semicolons": 1,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 3.2,
+  "paragraphs": [
+   {
+    "words": 102,
+    "ppl": 56.27315762941087,
+    "openai-community": 0.0018250532448291779,
+    "fakespot-ai": 0.03159632161259651,
+    "Hello-SimpleAI": 0.0006380295380949974,
+    "text": "Main revisions I made were to simply just the size and placement of the headlines and sublines in the first and third categories. This readjust makes the headli"
+   },
+   {
+    "words": 176,
+    "ppl": 43.35670633581424,
+    "openai-community": 0.00016897983732633293,
+    "fakespot-ai": 0.8838974237442017,
+    "Hello-SimpleAI": 0.037586189806461334,
+    "text": "My final TOC appeals to my audience in many ways. For starters, my headlines cover topics that appeal to them. For example, I cover game optimization and game c"
+   },
+   {
+    "words": 131,
+    "ppl": 47.235104151114705,
+    "openai-community": 0.000783513009082526,
+    "fakespot-ai": 0.6782092452049255,
+    "Hello-SimpleAI": 0.0005606653285212815,
+    "text": "Research significantly influenced the final product, as it caused me to make a lot of specific design decisions and choices. TOC Research showed me common TOC m"
+   },
+   {
+    "words": 108,
+    "ppl": 91.14595649384238,
+    "openai-community": 0.008055267855525017,
+    "fakespot-ai": 0.1833762526512146,
+    "Hello-SimpleAI": 0.008942628279328346,
+    "text": "I think my greatest strengths are my images and colors. The best design choices were make the Featured Stories box the biggest and to keep the main image entire"
+   },
+   {
+    "words": 99,
+    "ppl": 45.90887655283618,
+    "openai-community": 0.0018002111464738846,
+    "fakespot-ai": 0.9027707576751709,
+    "Hello-SimpleAI": 0.027569860219955444,
+    "text": "I learned how to design appealing TOCs, use colors, layout, and incorporate feedback. My work evolved from planning to final by starting with flat plans and res"
+   }
+  ]
+ },
+ {
+  "post": "26",
+  "words": 745,
+  "scored_words": 377,
+  "ppl": 41.959,
+  "openai-community": 0.142,
+  "fakespot-ai": 0.654,
+  "Hello-SimpleAI": 0.83,
+  "burstiness_ppl_sd": 44.2,
+  "sent_len_mean": 19.8,
+  "sent_len_sd": 7.4,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 0.0,
+  "paragraphs": [
+   {
+    "words": 45,
+    "ppl": 59.11278737432635,
+    "openai-community": 0.6390288472175598,
+    "fakespot-ai": 0.12947416305541992,
+    "Hello-SimpleAI": 0.9992358684539795,
+    "text": "A DPS (Double Page Spread) is two or more adjacent pages next to each other that are combined together make a wider area for text and content. In a magazine, a "
+   },
+   {
+    "words": 37,
+    "ppl": 40.7977618777717,
+    "openai-community": 0.37488412857055664,
+    "fakespot-ai": 0.014480553567409515,
+    "Hello-SimpleAI": 0.999233603477478,
+    "text": "Helps Communicate Info to Readers: This helps readers to better understand and visualize the text, especially if the main subject of the text is difficult to de"
+   },
+   {
+    "words": 109,
+    "ppl": 37.51564346822008,
+    "openai-community": 0.00350266438908875,
+    "fakespot-ai": 0.9790034890174866,
+    "Hello-SimpleAI": 0.9992326498031616,
+    "text": "Magazines use different design styles to appeal to different audiences for a variety of reasons. An audience interested in heavy and realistic video games may l"
+   },
+   {
+    "words": 64,
+    "ppl": 52.670776882484866,
+    "openai-community": 0.16212548315525055,
+    "fakespot-ai": 0.19916266202926636,
+    "Hello-SimpleAI": 0.007489962037652731,
+    "text": "I believe the images, headlines, and captions are the most important conventions. They are effective because they are the biggest, largest, highest-impact graph"
+   },
+   {
+    "words": 122,
+    "ppl": 34.334787002494565,
+    "openai-community": 0.0013644801219925284,
+    "fakespot-ai": 0.9884395599365234,
+    "Hello-SimpleAI": 0.9958477020263672,
+    "text": "Magazine conventions help engage readers by using clever tricks and using tried-and-true methods. For example, is a common convention with images to make them g"
+   }
+  ]
+ },
+ {
+  "post": "27",
+  "words": 693,
+  "scored_words": 647,
+  "ppl": 56.713,
+  "openai-community": 0.283,
+  "fakespot-ai": 0.247,
+  "Hello-SimpleAI": 0.611,
+  "burstiness_ppl_sd": 174.2,
+  "sent_len_mean": 23.1,
+  "sent_len_sd": 10.7,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 1.4,
+  "human_markers_per_1k": 4.3,
+  "paragraphs": [
+   {
+    "words": 97,
+    "ppl": 31.3330826137899,
+    "openai-community": 0.9997969269752502,
+    "fakespot-ai": 0.03748830407857895,
+    "Hello-SimpleAI": 0.9945752620697021,
+    "text": "DPS #1 is from the Texas Law Magazine, while DPS #2 is from the New Orleans Magazine.The articles in DPS #1 discuss student sports, while the article in DPS #2 "
+   },
+   {
+    "words": 198,
+    "ppl": 55.338493002293795,
+    "openai-community": 0.00019460298062767833,
+    "fakespot-ai": 0.004513047635555267,
+    "Hello-SimpleAI": 0.9947161078453064,
+    "text": "Both DPSes share 5 conventions: Minimal elements, lots of white space, simple fonts, singular striking images, and enlarged font sizes for headlines, captions, "
+   },
+   {
+    "words": 62,
+    "ppl": 40.45214755988143,
+    "openai-community": 0.45747482776641846,
+    "fakespot-ai": 0.3017334043979645,
+    "Hello-SimpleAI": 0.12190050631761551,
+    "text": "Both look very similar, with almost identical typography, color schemes, balance between text and visuals, and reader navigation. However, the fonts are slightl"
+   },
+   {
+    "words": 78,
+    "ppl": 62.254441205833054,
+    "openai-community": 0.04573675990104675,
+    "fakespot-ai": 0.29055818915367126,
+    "Hello-SimpleAI": 0.0036928041372448206,
+    "text": "DPS #1 appeals to its target audience with quality graphic design elements, relatable stories tied with policy (students), while DPS #2 appeals to its target au"
+   },
+   {
+    "words": 69,
+    "ppl": 73.52342655057596,
+    "openai-community": 0.007787440903484821,
+    "fakespot-ai": 0.5815739631652832,
+    "Hello-SimpleAI": 0.047051314264535904,
+    "text": "I believe DPS #1 is more effective. The vibrant color choice, modern graphics design, and generally relevant topic makes it more attractive and interesting to r"
+   },
+   {
+    "words": 55,
+    "ppl": 102.41381796767823,
+    "openai-community": 0.9758759140968323,
+    "fakespot-ai": 0.01180580910295248,
+    "Hello-SimpleAI": 0.04641243815422058,
+    "text": "I learned what DPSes look like and what makes a DPS look game versus something that looks unappealing. I want to use the color scheming, impactful images, and e"
+   },
+   {
+    "words": 88,
+    "ppl": 52.578583743399186,
+    "openai-community": 0.0024027766194194555,
+    "fakespot-ai": 0.8326545357704163,
+    "Hello-SimpleAI": 0.9992350339889526,
+    "text": "Different magazines use design conventions to help add familiarity & success into their work. By sticking to common conventions, magazines are able to appeal to"
+   }
+  ]
+ },
+ {
+  "post": "28",
+  "words": 820,
+  "scored_words": 701,
+  "ppl": 57.827,
+  "openai-community": 0.304,
+  "fakespot-ai": 0.653,
+  "Hello-SimpleAI": 0.162,
+  "burstiness_ppl_sd": 80.9,
+  "sent_len_mean": 20.0,
+  "sent_len_sd": 7.5,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 6.1,
+  "human_markers_per_1k": 3.7,
+  "paragraphs": [
+   {
+    "words": 72,
+    "ppl": 41.27478573474896,
+    "openai-community": 0.9000368714332581,
+    "fakespot-ai": 0.5645279288291931,
+    "Hello-SimpleAI": 0.03447095677256584,
+    "text": "The topic of my DPS will cover video game programming and how video games are made on a technical level. I chose this topic since its main headline of my magazi"
+   },
+   {
+    "words": 57,
+    "ppl": 34.10715410845133,
+    "openai-community": 0.2752910554409027,
+    "fakespot-ai": 0.9685050845146179,
+    "Hello-SimpleAI": 0.01758597418665886,
+    "text": "My target audience is teenagers aged 14-18 who are creative and interested in developing, making, and working on video games. They like creative arts like drawi"
+   },
+   {
+    "words": 94,
+    "ppl": 57.87285909814417,
+    "openai-community": 0.000708459469024092,
+    "fakespot-ai": 0.004517566412687302,
+    "Hello-SimpleAI": 0.04045660048723221,
+    "text": "Headline will go near the top of the page. Images will mainly stick to the sides and sometimes be placed around the text, near the middle fold. I will include 3"
+   },
+   {
+    "words": 114,
+    "ppl": 31.56540970803201,
+    "openai-community": 0.9984971284866333,
+    "fakespot-ai": 0.9859454035758972,
+    "Hello-SimpleAI": 0.0773763656616211,
+    "text": "I will use images and graphics to help add visual appeal and visual representations of the concepts covered in the paragraphs. My color scheme (i. e. black, gra"
+   },
+   {
+    "words": 104,
+    "ppl": 77.86032937874462,
+    "openai-community": 0.0001696902618277818,
+    "fakespot-ai": 0.6960337162017822,
+    "Hello-SimpleAI": 0.010977771133184433,
+    "text": "I will use magazine conventions like headline placement, white space usage, vibrant graphics, relatable topics, and quotes in my own magazine. DPS #1 in Blog Po"
+   },
+   {
+    "words": 105,
+    "ppl": 71.29710451481989,
+    "openai-community": 0.0009282990940846503,
+    "fakespot-ai": 0.49315276741981506,
+    "Hello-SimpleAI": 0.0020151061471551657,
+    "text": "I know my DPS will be successful because I use visual and textual elements (i. e. like technology, coding, retro fonts and references) that pull in and attract "
+   },
+   {
+    "words": 58,
+    "ppl": 117.15617139771828,
+    "openai-community": 0.32259416580200195,
+    "fakespot-ai": 0.5123268365859985,
+    "Hello-SimpleAI": 0.031256627291440964,
+    "text": "I am excited to make a fun, engaging DPS about my favorite part of game design and programming with vibrant visuals and useful concepts. I anticipate developing"
+   },
+   {
+    "words": 97,
+    "ppl": 43.33278268102202,
+    "openai-community": 0.000654547184240073,
+    "fakespot-ai": 0.9848846197128296,
+    "Hello-SimpleAI": 0.9691078066825867,
+    "text": "Research and analysis of professional magazine layouts help media producers design effective and engaging DPSes by showing them what common magazine conventions"
+   }
+  ]
+ },
+ {
+  "post": "29",
+  "words": 1489,
+  "scored_words": 1003,
+  "ppl": 59.828,
+  "openai-community": 0.15,
+  "fakespot-ai": 0.576,
+  "Hello-SimpleAI": 0.705,
+  "burstiness_ppl_sd": 89.6,
+  "sent_len_mean": 20.1,
+  "sent_len_sd": 8.9,
+  "em_dashes": 0,
+  "semicolons": 0,
+  "ai_vocab_per_1k": 0.0,
+  "human_markers_per_1k": 1.3,
+  "paragraphs": [
+   {
+    "words": 41,
+    "ppl": 77.1031237269211,
+    "openai-community": 0.022369230166077614,
+    "fakespot-ai": 0.5138974785804749,
+    "Hello-SimpleAI": 0.9970247149467468,
+    "text": "A DPS Flat Plan is a design document used to define the layout of a DPS being made. Designers like to create one before production as it allows them to control,"
+   },
+   {
+    "words": 130,
+    "ppl": 50.36459241989917,
+    "openai-community": 0.000281901826383546,
+    "fakespot-ai": 0.7417260408401489,
+    "Hello-SimpleAI": 0.7829130291938782,
+    "text": "Flat plans help organize content by showing the designers where and how to place contents of the DPS. Flat plans are also useful to help build and maintain visu"
+   },
+   {
+    "words": 48,
+    "ppl": 67.69856630000021,
+    "openai-community": 0.0054433937184512615,
+    "fakespot-ai": 0.6249050498008728,
+    "Hello-SimpleAI": 0.33345672488212585,
+    "text": "- Visual Hierarchy \u2013 The way elements are organized on the DPS. This is important as it determines how elements and text will be seen and read on the DPS. It im"
+   },
+   {
+    "words": 74,
+    "ppl": 49.87359864241218,
+    "openai-community": 0.9398868680000305,
+    "fakespot-ai": 0.9994087219238281,
+    "Hello-SimpleAI": 0.9714061617851257,
+    "text": "- Modular Design \u2013 A design style where certain elements, conventions, fonts, shapes, and general motifs are reused to build visual elements placed on a grid. T"
+   },
+   {
+    "words": 58,
+    "ppl": 61.01840482507912,
+    "openai-community": 0.025528758764266968,
+    "fakespot-ai": 0.7326998710632324,
+    "Hello-SimpleAI": 0.026834523305296898,
+    "text": "- Image Placement \u2013 How images are placed and organized on the DPS. This is important as image placement decides how and when readers interpret images. This imp"
+   },
+   {
+    "words": 66,
+    "ppl": 35.20505398754826,
+    "openai-community": 0.7926466464996338,
+    "fakespot-ai": 0.9835277199745178,
+    "Hello-SimpleAI": 0.998705267906189,
+    "text": "- Dominant Image \u2013 The main, big image that catches attention. This is important as it catches attention towards the magazine and communicates the tone and styl"
+   },
+   {
+    "words": 58,
+    "ppl": 80.35153452685533,
+    "openai-community": 0.019243841990828514,
+    "fakespot-ai": 0.9991227984428406,
+    "Hello-SimpleAI": 0.9922778606414795,
+    "text": "- White Space \u2013 The empty space between margins, images, paragraphs, and other separation objects. This is important as it helps ensure there is enough space to"
+   },
+   {
+    "words": 55,
+    "ppl": 67.54633820100906,
+    "openai-community": 0.32764992117881775,
+    "fakespot-ai": 0.7440592050552368,
+    "Hello-SimpleAI": 0.05135619640350342,
+    "text": "- Reader Flow \u2013 How readers\u2019 eyes move across the page and read the contents of the DPS. This is important as it controls how readers learn and interpret conten"
+   },
+   {
+    "words": 144,
+    "ppl": 42.781495518169415,
+    "openai-community": 0.00017907185247167945,
+    "fakespot-ai": 0.09678133577108383,
+    "Hello-SimpleAI": 0.9795172214508057,
+    "text": "For DPS #1, the headline is placed near the middle-left. The image placement is a full-bleed-image paired with a graphic near the top. The body text is in the C"
+   },
+   {
+    "words": 177,
+    "ppl": 45.31037018634856,
+    "openai-community": 0.0001811406691558659,
+    "fakespot-ai": 0.1589624583721161,
+    "Hello-SimpleAI": 0.9755634665489197,
+    "text": "For DPS #2, the headline is placed at the very top, spread across the DPS. The image placement is a box for the main image on the left of the magazine. The body"
+   },
+   {
+    "words": 35,
+    "ppl": 79.78031162086283,
+    "openai-community": 0.17410966753959656,
+    "fakespot-ai": 0.2135847508907318,
+    "Hello-SimpleAI": 0.0009886298794299364,
+    "text": "- Create a strong focal point \u2013 Improves the design by giving the reader a main focal point to look at and understand, adding context to the body paragraphs and"
+   },
+   {
+    "words": 117,
+    "ppl": 103.82802847225095,
+    "openai-community": 0.0017806971445679665,
+    "fakespot-ai": 0.8606991767883301,
+    "Hello-SimpleAI": 0.3001536726951599,
+    "text": "I learned that DPS flat plans are made very carefully to guide reader attention, keep visual appeal, and build a sense of professionalism. Dominant image and mo"
+   }
+  ]
+ },
+ {
+  "post": "AI_BASELINE",
+  "words": 479,
+  "scored_words": 479,
+  "ppl": 24.063,
+  "openai-community": 0.016,
+  "fakespot-ai": 1.0,
+  "Hello-SimpleAI": 0.425,
+  "burstiness_ppl_sd": 47.3,
+  "sent_len_mean": 17.7,
+  "sent_len_sd": 3.2,
+  "em_dashes": 2,
+  "semicolons": 1,
+  "ai_vocab_per_1k": 37.6,
+  "human_markers_per_1k": 0.0,
+  "paragraphs": [
+   {
+    "words": 95,
+    "ppl": 26.730684546965673,
+    "openai-community": 0.0022376389242708683,
+    "fakespot-ai": 0.9999264478683472,
+    "Hello-SimpleAI": 0.11966594308614731,
+    "text": "Magazine genres play a crucial role in shaping both content and audience expectations. Gaming magazines, in particular, leverage bold visuals and dynamic layout"
+   },
+   {
+    "words": 89,
+    "ppl": 16.74527199768369,
+    "openai-community": 0.05996587872505188,
+    "fakespot-ai": 0.9999268054962158,
+    "Hello-SimpleAI": 0.9913946986198425,
+    "text": "Understanding my target audience was essential to the success of my magazine. Through my research, I discovered that teenagers aged 14-18 are drawn to content t"
+   },
+   {
+    "words": 99,
+    "ppl": 23.15645706360678,
+    "openai-community": 0.0004265836614649743,
+    "fakespot-ai": 0.9999357461929321,
+    "Hello-SimpleAI": 0.007977893576025963,
+    "text": "The peer review process proved to be an invaluable part of my creative journey. Receiving constructive feedback allowed me to identify weaknesses in my design t"
+   },
+   {
+    "words": 103,
+    "ppl": 33.12270067312423,
+    "openai-community": 0.00019920688646379858,
+    "fakespot-ai": 0.999931812286377,
+    "Hello-SimpleAI": 0.9946548938751221,
+    "text": "A double-page spread is a powerful storytelling tool that seamlessly blends text and imagery across two facing pages. Key conventions include the headline, stan"
+   },
+   {
+    "words": 93,
+    "ppl": 19.2726652226234,
+    "openai-community": 0.023085052147507668,
+    "fakespot-ai": 0.9999366998672485,
+    "Hello-SimpleAI": 0.00596757372841239,
+    "text": "In conclusion, this project has significantly enhanced my understanding of media conventions and the creative process as a whole. From initial research to the f"
+   }
+  ]
+ }
+]

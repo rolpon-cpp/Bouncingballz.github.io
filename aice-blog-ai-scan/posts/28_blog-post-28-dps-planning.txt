@@ -1,0 +1,53 @@
+TITLE: Blog Post #28: DPS Planning
+DATE: 2026-11-04T03:51:28
+MODIFIED: 2026-11-04T03:51:28
+URL: https://lalitnunna.edublogs.org/2026/11/04/blog-post-28-dps-planning/
+
+Topic and Purpose
+
+The topic of my DPS will cover video game programming and how video games are made on a technical level. I chose this topic since its main headline of my magazine. I want to help communicate the difficulty and thinking required to code games. This is important to my audience since people in my audience are interested in developing video games and want to understand the internal workings on a technical level.
+
+Target Audience
+
+My target audience is teenagers aged 14-18 who are creative and interested in developing, making, and working on video games. They like creative arts like drawing, music production, programming, design, and advertising. My content, covering the technical aspects of game development, paired with a modern, sleek, and exciting design language will appeal and attract my audience well.
+
+Content Plan
+
+- My working headline will be “The Code Behind Games”.
+
+- My main article will focus on how developers work on video games: the programming languages, tools, concepts, architectures, and scripts they produce.
+
+- Key information and research will include quotes from real game developers, architecture explanations from papers, and info from TED talks.
+
+- I will use infographics, pull quotes, timelines, and fact boxes to support my content.
+
+- I will include visual diagrams of algorithms and architectures.
+
+Layout Plan
+
+Headline will go near the top of the page. Images will mainly stick to the sides and sometimes be placed around the text, near the middle fold. I will include 3-4 columns in the DPS. I will use minimal amounts of white space, not being super empty, but not packed either. Readers will first see high-level explanations of what game programmers do and then will read analogies and explanations for the lower-level topics. Important information will be bolded or given a specialized visual effect (like a color, font, or style change for 1-2 words). 
+
+Visual Design Plan
+
+I will use images and graphics to help add visual appeal and visual representations of the concepts covered in the paragraphs. My color scheme (i. e. black, gray, red, white) will be used to give the magazine a minimalist feel and keep things simple, appealing to my audience by keeping things straight-to-the-point and non-confusing. Fonts and typography will also be used to add importance to important words, stylized text for paragraph introductions, and general visual appeal, which appeals to my audience by adding visual flare and eye candy. Visual style and tone will rely on vibrant, interesting, and complex graphics, making my magazine feel more like a fun activity and less like a newspaper. 
+
+Applying What I Learned
+
+I will use magazine conventions like headline placement, white space usage, vibrant graphics, relatable topics, and quotes in my own magazine. DPS #1 in Blog Post #27 inspired me to use vibrant graphics and white space, while a magazine DPS I saw while researching for Blog Post #26 used quotes frequently throughout, inspiring me to also use quotes. I am adapting those magazine conventions and general design tools in my own magazine, as they have been proven to work effectively and been battle-tested across many magazines. I will make sure my own magazine changes its design with these conventions to actually match my content. 
+
+Success Criteria
+
+I know my DPS will be successful because I use visual and textual elements (i. e. like technology, coding, retro fonts and references) that pull in and attract my audience. I use modern, minimalist designs in my in visuals, which helps keep my DPS high-quality and appealing to young generations (like my target audience). I will use a discovery-based organization strategy, where convent is revealed in the order the readers discover it while reading. I will use straight-to-the point language and graphics to keep my information clear. I will use tried-and-true magazine conventions adapted to my visual design style to help make my DPS effective. 
+
+Reflection
+
+I am excited to make a fun, engaging DPS about my favorite part of game design and programming with vibrant visuals and useful concepts. I anticipate developing high-quality visual elements and good articles will be the most difficult. My analysis and research have influenced many of my choices, including to use common magazine conventions and have vibrant visuals. 
+
+Essential Question: How can research and analysis of professional magazine layouts help media producers design an effective and engaging double-page spread?
+
+Research and analysis of professional magazine layouts help media producers design effective and engaging DPSes by showing them what common magazine conventions look like, what works vs. what doesn’t, and giving them inspiration to help them create their own DPS. By looking at other DPSs, they get an idea of what a DPS looks like and what people expect from a DPS, allowing them to formulate layouts and designs with more confidence and clarity. Looking at other DPSes also lets them see what works with audiences, allowing them to copy and adapt strategies into their own DPS.
+
+--- IMAGES ---
+
+--- LINKS ---
+

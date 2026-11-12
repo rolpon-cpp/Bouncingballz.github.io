@@ -1,0 +1,29 @@
+TITLE: Blog Post #22: TOC Flat Plan
+DATE: 2026-10-15T21:22:35
+MODIFIED: 2026-10-15T21:22:35
+URL: https://lalitnunna.edublogs.org/2026/10/15/blog-post-22-toc-flat-plan/
+
+## Layout Decisions
+
+I placed the masthead and TOC Title at the top to stick to magazine convention and allow readers to quickly identify the pages. I placed the main image on the left side of the image to help give my main image and look appealing. I placed the three section headers on the right side of the page in a down-to-up arrangement, with each header having its own separated block. I did this to help fill up the right side of the page and be unique, as having the elements arranged in the opposite vertical order of reading makes it stand out. I made the bottom header the biggest to add emphasis to the main story inside that header. For Each header, I set a box for the photo and reserved the rest of the header for the headlines, sublines, and page numbers. I arranged the headlines/sublines/page numbers in a vertical order maintain simplicity and make reading the headlines easy. The headers and headlines being organized in a straight vertical order makes reading each headline clear. I want my main image to attract attention first as it will be the largest element in the whole TOC. 
+
+## Visual Hierarchy
+
+I believe the two most important elements are my main image and first header. They deserve the most space since they are the defining elements of my magazine. The main image is essentially the representative image for my magazine, so it needs to stay prominent and large. The first header needs to be large as well since it contains the main headline story of the whole magazine, so it needs space to provide emphasis to the main headline. Readers will move through the page by first finding the masthead and main image (eyes will naturally be placed at the top left because of human tendency to start reading something by the top left), and then readers will look down and find themselves at the header sections, and because they are organized in a straight vertical line, readers will naturally read their way down into the headers. They will read the final header (Header #1) last, keeping the main story and headlines fresh in their mind. 
+
+## Audience Appeal
+
+My target audience are teenagers 14-18 who have creative talents and are interested in game development. This layout appeals to them because it provides space for me to show them a variety of game development topics, which will naturally pull in their interest. My game development main image being prominent and large will naturally appeal to their interests and catch their attention. I decided to make my TOC very straightforward and non-cluttered because when I was conducting audience research, a lot of my interviewees said they like minimalist and straight-to-point content instead of flashy or cluttered content. 
+
+## Research Connections
+
+In my previous blog post, Flat Plan #2 inspired me the most since it was a functional DPS (double page spread) and it put the main image on the entire left page, giving it lots of space to look good while being easy to read. I borrowed the 3 article-header blocks and the main image placement from the Flat Plan. My research told me to avoid cluttered and packed TOCs (like Flat Plan #3 from the previous blog post). 
+
+## Reflection
+
+During the planning process, I learned how to clearly organize magazine elements in a clean and appealing way. I think putting the main image on the left side of the page was the easiest, as I really liked it from my research. Figuring out where to place the masthead and TOC Title were the hardest choices since I don’t know the best orientation or size to give to them (during my research I found a variety of different placements). Audience research influenced my choices by making me choose to make a minimalist, simple TOC layout instead of packing a lot of different elements together. TOC Research strengthened my design by giving me good ideas of what has worked in the past and what conventions designers use. This flat plan will give me the proper blueprint to help structure my TOC well and make it look good when I begin making it.
+
+--- IMAGES ---
+https://lalitnunna.edublogs.org/files/2026/10/TOC_FLAT_PLAN-2-1024x809.png | alt=
+--- LINKS ---
+
